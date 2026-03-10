@@ -1,0 +1,3544 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-01-05T19:22:28.525916",
+    "data": {
+      "timestamp": "2026-01-05T19:22:28.525916",
+      "user": "Current User",
+      "action": "Configuration",
+      "details": "Updated NewsAPI Credentials",
+      "category": "Configuration",
+      "impact": "Medium"
+    },
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "64990c7628176597d4a9f1b786ace452c4456421a63a7c05c174a07051488a20"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-01-05T19:43:24.071978",
+    "data": {
+      "timestamp": "2026-01-05T19:43:24.071978",
+      "user": "Current User",
+      "action": "Swarm Deployment",
+      "details": "Deployed Sentiment Seeder into Crypto",
+      "category": "Intelligence",
+      "impact": "Medium"
+    },
+    "prev_hash": "64990c7628176597d4a9f1b786ace452c4456421a63a7c05c174a07051488a20",
+    "hash": "f9b4de1cc1d66b2d7c5bd750120911a73fd8f02fa6ed97f6f1289fc4c2fb80c3"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-01-05T19:43:46.813302",
+    "data": {
+      "timestamp": "2026-01-05T19:43:46.813302",
+      "user": "Current User",
+      "action": "Quantum Job",
+      "details": "Executed Financial Portfolio (Depth: 128)",
+      "category": "Quantum",
+      "impact": "High"
+    },
+    "prev_hash": "f9b4de1cc1d66b2d7c5bd750120911a73fd8f02fa6ed97f6f1289fc4c2fb80c3",
+    "hash": "28dcf308d02bd3d752155e40a5808debbb48a913a0c2a63071e3e8576ef68fd9"
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-01-05T19:45:18.786730",
+    "data": {
+      "timestamp": "2026-01-05T19:45:18.786730",
+      "user": "Current User",
+      "action": "Save Workflow",
+      "details": "Created pipeline with 5 steps",
+      "category": "Automation",
+      "impact": "Medium"
+    },
+    "prev_hash": "28dcf308d02bd3d752155e40a5808debbb48a913a0c2a63071e3e8576ef68fd9",
+    "hash": "5329f3f7dac1a505ecbfca7dafecf587d22d9110eec20b090b6d7d4c7455d0eb"
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-01-06T00:52:34.653514",
+    "data": {
+      "timestamp": "2026-01-06T00:52:34.653514",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC Premium Terminal Online",
+      "category": "Infrastructure",
+      "impact": "High"
+    },
+    "prev_hash": "5329f3f7dac1a505ecbfca7dafecf587d22d9110eec20b090b6d7d4c7455d0eb",
+    "hash": "9091d269ae37b06f6efbeb714220186c5dc202b86ce616bcd6e749036c55dbb7"
+  },
+  {
+    "index": 5,
+    "timestamp": "2026-01-06T00:52:35.507521",
+    "data": {
+      "timestamp": "2026-01-06T00:52:35.507521",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Global Command Center",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "9091d269ae37b06f6efbeb714220186c5dc202b86ce616bcd6e749036c55dbb7",
+    "hash": "90bc89e74e698b425b7b53619faab6d754e0f4776b121d93c1cb96325019b829"
+  },
+  {
+    "index": 6,
+    "timestamp": "2026-01-06T00:52:53.229889",
+    "data": {
+      "timestamp": "2026-01-06T00:52:53.229889",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "90bc89e74e698b425b7b53619faab6d754e0f4776b121d93c1cb96325019b829",
+    "hash": "ddd9fdfa42704d908bede410117c004420a410ade8520237fb173230c2b57146"
+  },
+  {
+    "index": 7,
+    "timestamp": "2026-01-06T00:52:58.266738",
+    "data": {
+      "timestamp": "2026-01-06T00:52:58.266738",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Digital Twin Controller",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "ddd9fdfa42704d908bede410117c004420a410ade8520237fb173230c2b57146",
+    "hash": "63a7366633896c3853a58ddf9bf8f6c433e2f3ba5c22acaf711a1f6442cb75de"
+  },
+  {
+    "index": 8,
+    "timestamp": "2026-01-06T00:53:08.397105",
+    "data": {
+      "timestamp": "2026-01-06T00:53:08.397105",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "63a7366633896c3853a58ddf9bf8f6c433e2f3ba5c22acaf711a1f6442cb75de",
+    "hash": "f2311ddd73333d715842c4c5f004ce0721a456eba50198041f53fdae4e7e902f"
+  },
+  {
+    "index": 9,
+    "timestamp": "2026-01-06T00:53:27.425425",
+    "data": {
+      "timestamp": "2026-01-06T00:53:27.425425",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Venture Intelligence",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "f2311ddd73333d715842c4c5f004ce0721a456eba50198041f53fdae4e7e902f",
+    "hash": "f5ba6ae2827104d7dccde9ca64a8422f048ae3be862401e547b37e7752068dce"
+  },
+  {
+    "index": 10,
+    "timestamp": "2026-01-06T00:53:39.229235",
+    "data": {
+      "timestamp": "2026-01-06T00:53:39.229235",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Data Lab & Mining",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "f5ba6ae2827104d7dccde9ca64a8422f048ae3be862401e547b37e7752068dce",
+    "hash": "1f85732d6c25f582e1da1d0653cb8517c269e588c315d6506c708d0d16a0f728"
+  },
+  {
+    "index": 11,
+    "timestamp": "2026-01-06T00:53:58.583571",
+    "data": {
+      "timestamp": "2026-01-06T00:53:58.583571",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Security Audit Ledger",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "1f85732d6c25f582e1da1d0653cb8517c269e588c315d6506c708d0d16a0f728",
+    "hash": "ee059d81c369dac611e287d62aa6496c327073485575645fdf91e9be105f9aa0"
+  },
+  {
+    "index": 12,
+    "timestamp": "2026-01-06T00:54:15.155420",
+    "data": {
+      "timestamp": "2026-01-06T00:54:15.155420",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Visualization Studio",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "ee059d81c369dac611e287d62aa6496c327073485575645fdf91e9be105f9aa0",
+    "hash": "5fba871f1f6186f4a20971761589b54dafcf97f17f0de3fee6e5f82f01e7d9ed"
+  },
+  {
+    "index": 13,
+    "timestamp": "2026-01-06T00:54:20.190360",
+    "data": {
+      "timestamp": "2026-01-06T00:54:20.190360",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Global Tech News",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "5fba871f1f6186f4a20971761589b54dafcf97f17f0de3fee6e5f82f01e7d9ed",
+    "hash": "820d320d0cae8bc8c50f717e1b1e3e57538ff8486c4d0d4e111330d37cb702dd"
+  },
+  {
+    "index": 14,
+    "timestamp": "2026-01-06T00:54:29.429990",
+    "data": {
+      "timestamp": "2026-01-06T00:54:29.429990",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Extraction Engine",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "820d320d0cae8bc8c50f717e1b1e3e57538ff8486c4d0d4e111330d37cb702dd",
+    "hash": "bb967350a0477e91215827f633ef21f3bcc84c867b7e8f141de9ac3e3c0c87a5"
+  },
+  {
+    "index": 15,
+    "timestamp": "2026-01-06T00:54:34.868364",
+    "data": {
+      "timestamp": "2026-01-06T00:54:34.868364",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "bb967350a0477e91215827f633ef21f3bcc84c867b7e8f141de9ac3e3c0c87a5",
+    "hash": "b68292fc30bf03df2a067cd040a87ef79b36fa4abe3a80daf1743716e3ffbd34"
+  },
+  {
+    "index": 16,
+    "timestamp": "2026-01-06T00:54:44.562614",
+    "data": {
+      "timestamp": "2026-01-06T00:54:44.562614",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Real-Time Monitor",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "b68292fc30bf03df2a067cd040a87ef79b36fa4abe3a80daf1743716e3ffbd34",
+    "hash": "62c3a62889d19ac43653b1e86c117d61fc3b71fac931d40c15d382b1d633ec3c"
+  },
+  {
+    "index": 17,
+    "timestamp": "2026-01-06T00:54:47.653213",
+    "data": {
+      "timestamp": "2026-01-06T00:54:47.653213",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Social Market Intelligence",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "62c3a62889d19ac43653b1e86c117d61fc3b71fac931d40c15d382b1d633ec3c",
+    "hash": "aaf623c8eacb44feda92a8f2f853791a87640cbf72007bfbab5bcfd454dcfbe5"
+  },
+  {
+    "index": 18,
+    "timestamp": "2026-01-06T00:54:53.088231",
+    "data": {
+      "timestamp": "2026-01-06T00:54:53.088231",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Connect Database",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "aaf623c8eacb44feda92a8f2f853791a87640cbf72007bfbab5bcfd454dcfbe5",
+    "hash": "4331e44a655e24f43b257333632fc7f58bc8e2c02b015146508667d0edec7c5c"
+  },
+  {
+    "index": 19,
+    "timestamp": "2026-01-06T00:54:58.006513",
+    "data": {
+      "timestamp": "2026-01-06T00:54:58.006513",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to File Utilities",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "4331e44a655e24f43b257333632fc7f58bc8e2c02b015146508667d0edec7c5c",
+    "hash": "c646a7e8900101113ab095e617ac01e74c127ebaf91ddcc39ffd5902b40224d1"
+  },
+  {
+    "index": 20,
+    "timestamp": "2026-01-06T00:55:00.875759",
+    "data": {
+      "timestamp": "2026-01-06T00:55:00.875759",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Workflow Automation",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "c646a7e8900101113ab095e617ac01e74c127ebaf91ddcc39ffd5902b40224d1",
+    "hash": "bdc9839057470d83f90a045c6d758f7ad9bf5340179bd1aa61888ac8f9c21add"
+  },
+  {
+    "index": 21,
+    "timestamp": "2026-01-06T00:55:04.325966",
+    "data": {
+      "timestamp": "2026-01-06T00:55:04.325966",
+      "user": "Current User",
+      "action": "Navigation",
+      "details": "Switched to Legacy Dashboard",
+      "category": "Operations",
+      "impact": "Low"
+    },
+    "prev_hash": "bdc9839057470d83f90a045c6d758f7ad9bf5340179bd1aa61888ac8f9c21add",
+    "hash": "b79e7d70cb813ae721f190208beb8d353e1e20250ec90bc5c40174719f923d9e"
+  },
+  {
+    "index": 22,
+    "timestamp": "2026-01-06T01:01:09.548845",
+    "data": {
+      "timestamp": "2026-01-06T01:01:09.548845",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "b79e7d70cb813ae721f190208beb8d353e1e20250ec90bc5c40174719f923d9e",
+    "hash": "66e50b3fafc670bb339e2c0cf9f8750a481d443c5f179c8c21dfe8a3fc0d6291"
+  },
+  {
+    "index": 23,
+    "timestamp": "2026-01-06T01:01:10.728046",
+    "data": {
+      "timestamp": "2026-01-06T01:01:10.728046",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "66e50b3fafc670bb339e2c0cf9f8750a481d443c5f179c8c21dfe8a3fc0d6291",
+    "hash": "aedbfaf3434dee5cb170465bf935de10403d71f24a3ae7cba61b78d1ddd95ada"
+  },
+  {
+    "index": 24,
+    "timestamp": "2026-01-06T01:01:19.046117",
+    "data": {
+      "timestamp": "2026-01-06T01:01:19.046117",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "aedbfaf3434dee5cb170465bf935de10403d71f24a3ae7cba61b78d1ddd95ada",
+    "hash": "a59420e30463657b9e9a2aa4b9d3b3c97a312fe7cc760032cec48ba80bee323e"
+  },
+  {
+    "index": 25,
+    "timestamp": "2026-01-06T01:01:25.789627",
+    "data": {
+      "timestamp": "2026-01-06T01:01:25.789627",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a59420e30463657b9e9a2aa4b9d3b3c97a312fe7cc760032cec48ba80bee323e",
+    "hash": "2bdf48bfdd3efe9e3d00116a460066527a249dddd2b41de64c79058b6c4a2664"
+  },
+  {
+    "index": 26,
+    "timestamp": "2026-01-06T01:01:36.104753",
+    "data": {
+      "timestamp": "2026-01-06T01:01:36.104753",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2bdf48bfdd3efe9e3d00116a460066527a249dddd2b41de64c79058b6c4a2664",
+    "hash": "8d3566889816e12af1e63916a2dfe66fb083c5ada4a0e7810e707a3a143ce294"
+  },
+  {
+    "index": 27,
+    "timestamp": "2026-01-06T01:01:45.864788",
+    "data": {
+      "timestamp": "2026-01-06T01:01:45.864788",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "8d3566889816e12af1e63916a2dfe66fb083c5ada4a0e7810e707a3a143ce294",
+    "hash": "1f8307034b141e6849bbae7c1e60090b577ea20405c6d49cc18e92426da5ccd9"
+  },
+  {
+    "index": 28,
+    "timestamp": "2026-01-06T01:01:49.911233",
+    "data": {
+      "timestamp": "2026-01-06T01:01:49.911233",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "1f8307034b141e6849bbae7c1e60090b577ea20405c6d49cc18e92426da5ccd9",
+    "hash": "ceaf547a5fd72032018f7b14cb8656be4fc2007370a4e8319ea825d3dff10c4f"
+  },
+  {
+    "index": 29,
+    "timestamp": "2026-01-06T01:06:10.982894",
+    "data": {
+      "timestamp": "2026-01-06T01:06:10.982894",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "ceaf547a5fd72032018f7b14cb8656be4fc2007370a4e8319ea825d3dff10c4f",
+    "hash": "4e8e3ee8e3642cbe4a85518b4dd0babd424e08b2d2b1acb9ddc4d2272d021868"
+  },
+  {
+    "index": 30,
+    "timestamp": "2026-01-06T01:06:12.264182",
+    "data": {
+      "timestamp": "2026-01-06T01:06:12.264182",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "4e8e3ee8e3642cbe4a85518b4dd0babd424e08b2d2b1acb9ddc4d2272d021868",
+    "hash": "9fa6c9d4c8bb22c1a500258efc411a6bf0a4b6a9db19bedef5a195250dfa637d"
+  },
+  {
+    "index": 31,
+    "timestamp": "2026-01-06T01:06:17.410287",
+    "data": {
+      "timestamp": "2026-01-06T01:06:17.410287",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9fa6c9d4c8bb22c1a500258efc411a6bf0a4b6a9db19bedef5a195250dfa637d",
+    "hash": "6d1bbd3b5dc9dbaf33939c9209839994322b3fa45c1ea116f55c53411cfa19ff"
+  },
+  {
+    "index": 32,
+    "timestamp": "2026-01-06T01:06:23.853722",
+    "data": {
+      "timestamp": "2026-01-06T01:06:23.853722",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "6d1bbd3b5dc9dbaf33939c9209839994322b3fa45c1ea116f55c53411cfa19ff",
+    "hash": "3be969b56db34d37f26132559f3e27fd62caf612c400ee788436d04f1af0dcd7"
+  },
+  {
+    "index": 33,
+    "timestamp": "2026-01-06T01:06:42.238169",
+    "data": {
+      "timestamp": "2026-01-06T01:06:42.238169",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3be969b56db34d37f26132559f3e27fd62caf612c400ee788436d04f1af0dcd7",
+    "hash": "33d587564eeac5fe161c34bb7e39081fc40236b8daf57559414317d272856844"
+  },
+  {
+    "index": 34,
+    "timestamp": "2026-01-06T01:06:54.659872",
+    "data": {
+      "timestamp": "2026-01-06T01:06:54.659872",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "33d587564eeac5fe161c34bb7e39081fc40236b8daf57559414317d272856844",
+    "hash": "1fe78e444f4419bc2f1beed1c24b8384aa2197b2adfed57ec24fb2c4adaf3f3e"
+  },
+  {
+    "index": 35,
+    "timestamp": "2026-01-06T01:07:05.481577",
+    "data": {
+      "timestamp": "2026-01-06T01:07:05.481577",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "1fe78e444f4419bc2f1beed1c24b8384aa2197b2adfed57ec24fb2c4adaf3f3e",
+    "hash": "c0687212ac1c611a3197b49c6801b4c23029b8c4c7db90935b41cc31ae2071e5"
+  },
+  {
+    "index": 36,
+    "timestamp": "2026-01-06T01:07:10.883586",
+    "data": {
+      "timestamp": "2026-01-06T01:07:10.883586",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c0687212ac1c611a3197b49c6801b4c23029b8c4c7db90935b41cc31ae2071e5",
+    "hash": "1709da1d80e370c160f0133578e323106c8a1668599bd1c9c4a8c9e1dd382770"
+  },
+  {
+    "index": 37,
+    "timestamp": "2026-01-06T01:07:18.045302",
+    "data": {
+      "timestamp": "2026-01-06T01:07:18.045302",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "1709da1d80e370c160f0133578e323106c8a1668599bd1c9c4a8c9e1dd382770",
+    "hash": "fb2df4ab15265549d231fcd3ef6437d088cab8ffc9cdd180aead1bef4dfa2a39"
+  },
+  {
+    "index": 38,
+    "timestamp": "2026-01-06T01:07:26.009123",
+    "data": {
+      "timestamp": "2026-01-06T01:07:26.009123",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "fb2df4ab15265549d231fcd3ef6437d088cab8ffc9cdd180aead1bef4dfa2a39",
+    "hash": "e5e6ced754ea24f6e74d25286cbec291dd72ad09aa318f81a4484a360bc6c53a"
+  },
+  {
+    "index": 39,
+    "timestamp": "2026-01-06T01:07:32.986988",
+    "data": {
+      "timestamp": "2026-01-06T01:07:32.986988",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "e5e6ced754ea24f6e74d25286cbec291dd72ad09aa318f81a4484a360bc6c53a",
+    "hash": "a625477fbbee9733ef10ca4c8a6d28cd686116448bc1a4b01cea467bf99e98dd"
+  },
+  {
+    "index": 40,
+    "timestamp": "2026-01-06T01:07:36.663084",
+    "data": {
+      "timestamp": "2026-01-06T01:07:36.663084",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a625477fbbee9733ef10ca4c8a6d28cd686116448bc1a4b01cea467bf99e98dd",
+    "hash": "c66acd674355bf34746cfed395fe1acf742c19b32ed0ed67e218c97f10d256e2"
+  },
+  {
+    "index": 41,
+    "timestamp": "2026-01-06T01:07:57.378655",
+    "data": {
+      "timestamp": "2026-01-06T01:07:57.378655",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c66acd674355bf34746cfed395fe1acf742c19b32ed0ed67e218c97f10d256e2",
+    "hash": "21c52c8deda758639e99314c0b8f442da8d810b0f60c27d0c5eb84cf25ea84cf"
+  },
+  {
+    "index": 42,
+    "timestamp": "2026-01-06T01:07:59.866294",
+    "data": {
+      "timestamp": "2026-01-06T01:07:59.866294",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Social Market Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "21c52c8deda758639e99314c0b8f442da8d810b0f60c27d0c5eb84cf25ea84cf",
+    "hash": "28fbd113c049a0718447b258440abd683fd1e919bf7793253e9a0e6734af9641"
+  },
+  {
+    "index": 43,
+    "timestamp": "2026-01-06T01:08:03.266390",
+    "data": {
+      "timestamp": "2026-01-06T01:08:03.266390",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "28fbd113c049a0718447b258440abd683fd1e919bf7793253e9a0e6734af9641",
+    "hash": "a28be9e8be1a836586fd6e8fb07c396d7bcb83041ebf6c2a69e3fb4246e9697a"
+  },
+  {
+    "index": 44,
+    "timestamp": "2026-01-06T01:08:06.954628",
+    "data": {
+      "timestamp": "2026-01-06T01:08:06.954628",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a28be9e8be1a836586fd6e8fb07c396d7bcb83041ebf6c2a69e3fb4246e9697a",
+    "hash": "d96172eee65097048426b8fb4f3ad43aa64180db4f1cc9f8c254cfcbbe15dd79"
+  },
+  {
+    "index": 45,
+    "timestamp": "2026-01-06T01:08:12.138716",
+    "data": {
+      "timestamp": "2026-01-06T01:08:12.138716",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Workflow Automation",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d96172eee65097048426b8fb4f3ad43aa64180db4f1cc9f8c254cfcbbe15dd79",
+    "hash": "1ee6a7c5654f18d826995b5d63861bcb1b8123d92c90cd12560af1bbd7160782"
+  },
+  {
+    "index": 46,
+    "timestamp": "2026-01-06T01:08:14.340345",
+    "data": {
+      "timestamp": "2026-01-06T01:08:14.340345",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Legacy Dashboard",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "1ee6a7c5654f18d826995b5d63861bcb1b8123d92c90cd12560af1bbd7160782",
+    "hash": "85b95c7a2cb0d91d1ee5d7ba87b4e83a540282e8db90f816e855f52f129d081e"
+  },
+  {
+    "index": 47,
+    "timestamp": "2026-01-06T01:08:19.616308",
+    "data": {
+      "timestamp": "2026-01-06T01:08:19.616308",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "85b95c7a2cb0d91d1ee5d7ba87b4e83a540282e8db90f816e855f52f129d081e",
+    "hash": "b8a95b06da8538b09ebe8f2417f402fa138f8369c9374abe27b3d6ce886d24c9"
+  },
+  {
+    "index": 48,
+    "timestamp": "2026-01-06T01:08:20.772291",
+    "data": {
+      "timestamp": "2026-01-06T01:08:20.772291",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "b8a95b06da8538b09ebe8f2417f402fa138f8369c9374abe27b3d6ce886d24c9",
+    "hash": "ab0e73c82629d364d0445ecaac9c40bc54cbdca84ec2850c75320bcbc524020f"
+  },
+  {
+    "index": 49,
+    "timestamp": "2026-01-06T01:08:23.710948",
+    "data": {
+      "timestamp": "2026-01-06T01:08:23.710948",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ab0e73c82629d364d0445ecaac9c40bc54cbdca84ec2850c75320bcbc524020f",
+    "hash": "1165bd16f714c1f749ea18cf7a7eb3fa950b8a97f5e447799ef4e637ec96168e"
+  },
+  {
+    "index": 50,
+    "timestamp": "2026-01-06T01:08:27.808605",
+    "data": {
+      "timestamp": "2026-01-06T01:08:27.808605",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "1165bd16f714c1f749ea18cf7a7eb3fa950b8a97f5e447799ef4e637ec96168e",
+    "hash": "a2ec8429cd5d99be8a0c065709f1a11f9c4515d0925ed36c3097ddfe042852b1"
+  },
+  {
+    "index": 51,
+    "timestamp": "2026-01-06T01:08:29.779299",
+    "data": {
+      "timestamp": "2026-01-06T01:08:29.779299",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a2ec8429cd5d99be8a0c065709f1a11f9c4515d0925ed36c3097ddfe042852b1",
+    "hash": "11c053f12fa5c5c156cd626da56bfef597c6c6f68cde2bbc0154df74985726aa"
+  },
+  {
+    "index": 52,
+    "timestamp": "2026-01-06T01:11:37.425923",
+    "data": {
+      "timestamp": "2026-01-06T01:11:37.425923",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "11c053f12fa5c5c156cd626da56bfef597c6c6f68cde2bbc0154df74985726aa",
+    "hash": "dfaab7bd7d4f3d18c1c0eade1fe61c34532b8435f3c5438bdcfc033f0498a0b7"
+  },
+  {
+    "index": 53,
+    "timestamp": "2026-01-06T01:11:38.522175",
+    "data": {
+      "timestamp": "2026-01-06T01:11:38.522175",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "dfaab7bd7d4f3d18c1c0eade1fe61c34532b8435f3c5438bdcfc033f0498a0b7",
+    "hash": "7402b337d506e826cd8bc12ec033091b5ae98db6f4e83bb7e739269220430f74"
+  },
+  {
+    "index": 54,
+    "timestamp": "2026-01-06T01:11:45.839655",
+    "data": {
+      "timestamp": "2026-01-06T01:11:45.839655",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "7402b337d506e826cd8bc12ec033091b5ae98db6f4e83bb7e739269220430f74",
+    "hash": "56c86ff2b8350889728f78171f03069bec708429049e941b97e0e050b07971c7"
+  },
+  {
+    "index": 55,
+    "timestamp": "2026-01-06T01:11:54.459222",
+    "data": {
+      "timestamp": "2026-01-06T01:11:54.459222",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "56c86ff2b8350889728f78171f03069bec708429049e941b97e0e050b07971c7",
+    "hash": "78f190cf05315d583bd89e65589d4805d5e7336b17e0185115df3f32ff7af609"
+  },
+  {
+    "index": 56,
+    "timestamp": "2026-01-06T01:12:07.392585",
+    "data": {
+      "timestamp": "2026-01-06T01:12:07.392585",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "78f190cf05315d583bd89e65589d4805d5e7336b17e0185115df3f32ff7af609",
+    "hash": "34fd922e44b4bfc3aee4182925a07a6102942d75ce5ee5e25a73b40d88c04641"
+  },
+  {
+    "index": 57,
+    "timestamp": "2026-01-06T01:12:37.389849",
+    "data": {
+      "timestamp": "2026-01-06T01:12:37.389849",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "34fd922e44b4bfc3aee4182925a07a6102942d75ce5ee5e25a73b40d88c04641",
+    "hash": "885418362813816c1b748a6f5654a1f7099d4ccaab028f1b5eaa5aa50107d15e"
+  },
+  {
+    "index": 58,
+    "timestamp": "2026-01-06T01:12:47.211816",
+    "data": {
+      "timestamp": "2026-01-06T01:12:47.211816",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "885418362813816c1b748a6f5654a1f7099d4ccaab028f1b5eaa5aa50107d15e",
+    "hash": "73858d4ef6e706330f583612ec082259d265c62785fd3dc7bb6955429709107c"
+  },
+  {
+    "index": 59,
+    "timestamp": "2026-01-06T01:12:53.943455",
+    "data": {
+      "timestamp": "2026-01-06T01:12:53.943455",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "73858d4ef6e706330f583612ec082259d265c62785fd3dc7bb6955429709107c",
+    "hash": "df2077546f520f029639509a4865363d102329810f1d726820ac5e5d5870080c"
+  },
+  {
+    "index": 60,
+    "timestamp": "2026-01-06T01:13:09.452894",
+    "data": {
+      "timestamp": "2026-01-06T01:13:09.452894",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "df2077546f520f029639509a4865363d102329810f1d726820ac5e5d5870080c",
+    "hash": "6e7182b0bdfecc38d57bc16965e4632f77b597768d58fa658801c7f68d731227"
+  },
+  {
+    "index": 61,
+    "timestamp": "2026-01-06T01:13:13.016781",
+    "data": {
+      "timestamp": "2026-01-06T01:13:13.016781",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "6e7182b0bdfecc38d57bc16965e4632f77b597768d58fa658801c7f68d731227",
+    "hash": "988fe3f6b90a7685b8affd1ae541e9adbf4eff09b147c8157932dec2738cbda3"
+  },
+  {
+    "index": 62,
+    "timestamp": "2026-01-06T01:13:17.854571",
+    "data": {
+      "timestamp": "2026-01-06T01:13:17.854571",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "988fe3f6b90a7685b8affd1ae541e9adbf4eff09b147c8157932dec2738cbda3",
+    "hash": "87461fc10f4af7dac0b271916cb327ded51d472039721bfd60dce09f12bb3803"
+  },
+  {
+    "index": 63,
+    "timestamp": "2026-01-06T01:13:20.204066",
+    "data": {
+      "timestamp": "2026-01-06T01:13:20.204066",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "87461fc10f4af7dac0b271916cb327ded51d472039721bfd60dce09f12bb3803",
+    "hash": "cf0de6f2d2bdd7581f029bbeeb7418960de26ad50e35342dfa00703783d4c0f2"
+  },
+  {
+    "index": 64,
+    "timestamp": "2026-01-06T01:13:22.808864",
+    "data": {
+      "timestamp": "2026-01-06T01:13:22.808864",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "cf0de6f2d2bdd7581f029bbeeb7418960de26ad50e35342dfa00703783d4c0f2",
+    "hash": "d5ff81d465f356e86d7c73dbbdfa04ef06da2fd07e3af42a601330a4a35e1bd7"
+  },
+  {
+    "index": 65,
+    "timestamp": "2026-01-06T01:13:31.137271",
+    "data": {
+      "timestamp": "2026-01-06T01:13:31.137271",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d5ff81d465f356e86d7c73dbbdfa04ef06da2fd07e3af42a601330a4a35e1bd7",
+    "hash": "a530be1f3685f20d6ab7a036ee687c1f6733efe185ad50ed12baa5237363565e"
+  },
+  {
+    "index": 66,
+    "timestamp": "2026-01-06T01:13:32.918678",
+    "data": {
+      "timestamp": "2026-01-06T01:13:32.918678",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Social Market Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a530be1f3685f20d6ab7a036ee687c1f6733efe185ad50ed12baa5237363565e",
+    "hash": "9251f7a2fa6487b72d6472f2505e97bef88c1107b8a57df902f7471cb9cdaa9c"
+  },
+  {
+    "index": 67,
+    "timestamp": "2026-01-06T01:14:19.526835",
+    "data": {
+      "timestamp": "2026-01-06T01:14:19.526835",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9251f7a2fa6487b72d6472f2505e97bef88c1107b8a57df902f7471cb9cdaa9c",
+    "hash": "3ff171a2463a9b9ee60ad94d6b1de8c0a107089e84cc2bed9d5e17db615f9998"
+  },
+  {
+    "index": 68,
+    "timestamp": "2026-01-06T01:16:27.083587",
+    "data": {
+      "timestamp": "2026-01-06T01:16:27.083587",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "3ff171a2463a9b9ee60ad94d6b1de8c0a107089e84cc2bed9d5e17db615f9998",
+    "hash": "16e1f06609a564e091e5c3462a3a2b7d61e42262878f34e0282e4a450b17a968"
+  },
+  {
+    "index": 69,
+    "timestamp": "2026-01-06T01:16:27.919256",
+    "data": {
+      "timestamp": "2026-01-06T01:16:27.919256",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "16e1f06609a564e091e5c3462a3a2b7d61e42262878f34e0282e4a450b17a968",
+    "hash": "b92ed379a80aba8c115f5bca7f80f42ae48e2f9b3e29f5fee15282dd6322588e"
+  },
+  {
+    "index": 70,
+    "timestamp": "2026-01-06T01:16:40.250774",
+    "data": {
+      "timestamp": "2026-01-06T01:16:40.250774",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "b92ed379a80aba8c115f5bca7f80f42ae48e2f9b3e29f5fee15282dd6322588e",
+    "hash": "9c9993b2f924430e1763922d826470f40a87ed0e305509f360b9c371d2a30306"
+  },
+  {
+    "index": 71,
+    "timestamp": "2026-01-06T01:16:44.699598",
+    "data": {
+      "timestamp": "2026-01-06T01:16:44.699598",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9c9993b2f924430e1763922d826470f40a87ed0e305509f360b9c371d2a30306",
+    "hash": "ef3bb63ab16d572d78b3280242b77ea6dcb50ab3ee0ae2a44de0e1fc555d0119"
+  },
+  {
+    "index": 72,
+    "timestamp": "2026-01-06T01:16:56.998997",
+    "data": {
+      "timestamp": "2026-01-06T01:16:56.998997",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ef3bb63ab16d572d78b3280242b77ea6dcb50ab3ee0ae2a44de0e1fc555d0119",
+    "hash": "2f2c3e6d154c80f3722aa6e3161f3c1b0e111fb1f9e1c9f1037c4a7198006bbc"
+  },
+  {
+    "index": 73,
+    "timestamp": "2026-01-06T01:17:07.611158",
+    "data": {
+      "timestamp": "2026-01-06T01:17:07.611158",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2f2c3e6d154c80f3722aa6e3161f3c1b0e111fb1f9e1c9f1037c4a7198006bbc",
+    "hash": "9269b6bb99cdd0272d97c8e6f5501c034fcf4c04f06f2fa86811c07ffdef5e3d"
+  },
+  {
+    "index": 74,
+    "timestamp": "2026-01-06T01:17:11.459918",
+    "data": {
+      "timestamp": "2026-01-06T01:17:11.459918",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9269b6bb99cdd0272d97c8e6f5501c034fcf4c04f06f2fa86811c07ffdef5e3d",
+    "hash": "312c68a41edc7fb1ae48070c1de5380f41db8e3fa1e3cab899ebf9f29eb7e297"
+  },
+  {
+    "index": 75,
+    "timestamp": "2026-01-06T01:17:15.342409",
+    "data": {
+      "timestamp": "2026-01-06T01:17:15.342409",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "312c68a41edc7fb1ae48070c1de5380f41db8e3fa1e3cab899ebf9f29eb7e297",
+    "hash": "33d225e0e08e87394ee60739e1dfce6a7a2c1060c382f982f84c07c5f3589728"
+  },
+  {
+    "index": 76,
+    "timestamp": "2026-01-06T01:17:29.019896",
+    "data": {
+      "timestamp": "2026-01-06T01:17:29.019896",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "33d225e0e08e87394ee60739e1dfce6a7a2c1060c382f982f84c07c5f3589728",
+    "hash": "c526482b14bb297b6986006f1f6d594a51a6d860538ad2e729ce1e3c517313a7"
+  },
+  {
+    "index": 77,
+    "timestamp": "2026-01-06T01:17:33.001898",
+    "data": {
+      "timestamp": "2026-01-06T01:17:33.001898",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c526482b14bb297b6986006f1f6d594a51a6d860538ad2e729ce1e3c517313a7",
+    "hash": "d58e13e7df2784cf008ce9dc82338389734bc0d425f7c524f9f8bad961716137"
+  },
+  {
+    "index": 78,
+    "timestamp": "2026-01-06T01:17:34.584068",
+    "data": {
+      "timestamp": "2026-01-06T01:17:34.584068",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d58e13e7df2784cf008ce9dc82338389734bc0d425f7c524f9f8bad961716137",
+    "hash": "c80e01aa0541d9d7185c520f5983c46e057d77cb18a8211fd3bf00150a05a83a"
+  },
+  {
+    "index": 79,
+    "timestamp": "2026-01-06T01:18:02.101162",
+    "data": {
+      "timestamp": "2026-01-06T01:18:02.101162",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c80e01aa0541d9d7185c520f5983c46e057d77cb18a8211fd3bf00150a05a83a",
+    "hash": "fa78f48b5ba44c02b54e3b8215d208c273657f532b947a254a41bf4133197049"
+  },
+  {
+    "index": 80,
+    "timestamp": "2026-01-06T01:20:12.910281",
+    "data": {
+      "timestamp": "2026-01-06T01:20:12.910281",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "fa78f48b5ba44c02b54e3b8215d208c273657f532b947a254a41bf4133197049",
+    "hash": "3dd8b7e0f4039a4ed2a3f3a67fa08aa4fcb4127731e32b6a97cce178a98655d8"
+  },
+  {
+    "index": 81,
+    "timestamp": "2026-01-06T01:20:18.512303",
+    "data": {
+      "timestamp": "2026-01-06T01:20:18.512303",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3dd8b7e0f4039a4ed2a3f3a67fa08aa4fcb4127731e32b6a97cce178a98655d8",
+    "hash": "262bf19e077aea85392fdd79c572444f5c999a9dd733bd6c9584663740529c5e"
+  },
+  {
+    "index": 82,
+    "timestamp": "2026-01-06T01:21:04.440727",
+    "data": {
+      "timestamp": "2026-01-06T01:21:04.440727",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "262bf19e077aea85392fdd79c572444f5c999a9dd733bd6c9584663740529c5e",
+    "hash": "4d4fa8633dfaf21614360b67dc7b202536a9f6382f27db019a7ac9098dc75688"
+  },
+  {
+    "index": 83,
+    "timestamp": "2026-01-06T01:21:05.531304",
+    "data": {
+      "timestamp": "2026-01-06T01:21:05.531304",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "4d4fa8633dfaf21614360b67dc7b202536a9f6382f27db019a7ac9098dc75688",
+    "hash": "2aafad29b52f5ca2aedcb21d67038979c6c426338fbcbd669473faa478392b0a"
+  },
+  {
+    "index": 84,
+    "timestamp": "2026-01-06T01:23:32.632140",
+    "data": {
+      "timestamp": "2026-01-06T01:23:32.632140",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "2aafad29b52f5ca2aedcb21d67038979c6c426338fbcbd669473faa478392b0a",
+    "hash": "995c01700a17d6c248d62625221f0336bb4456d0d97f8764ba1600cbed0f9250"
+  },
+  {
+    "index": 85,
+    "timestamp": "2026-01-06T01:23:33.833212",
+    "data": {
+      "timestamp": "2026-01-06T01:23:33.833212",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "995c01700a17d6c248d62625221f0336bb4456d0d97f8764ba1600cbed0f9250",
+    "hash": "fee62335f5778f4b97381e5f62dec5abc4314f32623ef078b1632ae4fcf9a877"
+  },
+  {
+    "index": 86,
+    "timestamp": "2026-01-06T01:24:25.621112",
+    "data": {
+      "timestamp": "2026-01-06T01:24:25.621112",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "fee62335f5778f4b97381e5f62dec5abc4314f32623ef078b1632ae4fcf9a877",
+    "hash": "f213ee537cd554d5f558da30c670308486c6af689da744cd0395f33237142767"
+  },
+  {
+    "index": 87,
+    "timestamp": "2026-01-06T01:24:34.459396",
+    "data": {
+      "timestamp": "2026-01-06T01:24:34.459396",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f213ee537cd554d5f558da30c670308486c6af689da744cd0395f33237142767",
+    "hash": "9c56e172c8b97b713fb25476026b410ffb3f8057ba71674ba03e968b4adfe69e"
+  },
+  {
+    "index": 88,
+    "timestamp": "2026-01-09T19:14:55.948701",
+    "data": {
+      "timestamp": "2026-01-09T19:14:55.948701",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "9c56e172c8b97b713fb25476026b410ffb3f8057ba71674ba03e968b4adfe69e",
+    "hash": "47599f5dce98c63058996328d088bfb50bfb5cbdbe0ac1c812a002ee412ff45f"
+  },
+  {
+    "index": 89,
+    "timestamp": "2026-01-09T19:15:13.624884",
+    "data": {
+      "timestamp": "2026-01-09T19:15:13.624884",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "47599f5dce98c63058996328d088bfb50bfb5cbdbe0ac1c812a002ee412ff45f",
+    "hash": "c81bcf2b9991a40b62c82904661e1dda68603b78b0464fc466d13f79ff80db80"
+  },
+  {
+    "index": 90,
+    "timestamp": "2026-01-09T19:15:20.676588",
+    "data": {
+      "timestamp": "2026-01-09T19:15:20.676588",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c81bcf2b9991a40b62c82904661e1dda68603b78b0464fc466d13f79ff80db80",
+    "hash": "20ab169459a1981876a4d354910611e4e00e924aefde5bd82d95d29cfec150b9"
+  },
+  {
+    "index": 91,
+    "timestamp": "2026-01-09T19:15:30.479312",
+    "data": {
+      "timestamp": "2026-01-09T19:15:30.479312",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "20ab169459a1981876a4d354910611e4e00e924aefde5bd82d95d29cfec150b9",
+    "hash": "a8615c17bc14ad5473300f563664414754c3b6a6af949218403758ca4ac662c1"
+  },
+  {
+    "index": 92,
+    "timestamp": "2026-01-09T19:15:38.929731",
+    "data": {
+      "timestamp": "2026-01-09T19:15:38.929731",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a8615c17bc14ad5473300f563664414754c3b6a6af949218403758ca4ac662c1",
+    "hash": "f983680d1259db8cfb5f42feb8a770a3a7ee35397d191377995a7c035e9c0888"
+  },
+  {
+    "index": 93,
+    "timestamp": "2026-01-09T19:15:42.598729",
+    "data": {
+      "timestamp": "2026-01-09T19:15:42.598729",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f983680d1259db8cfb5f42feb8a770a3a7ee35397d191377995a7c035e9c0888",
+    "hash": "c447656fec2480c757d532f97b36c6ccc15d981d8a87939f2ae79e6839dc632a"
+  },
+  {
+    "index": 94,
+    "timestamp": "2026-01-09T19:15:51.843106",
+    "data": {
+      "timestamp": "2026-01-09T19:15:51.843106",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c447656fec2480c757d532f97b36c6ccc15d981d8a87939f2ae79e6839dc632a",
+    "hash": "94dbd6fd83816557bfb92df90bc808206f64f7ba42e837761b1538898909e94c"
+  },
+  {
+    "index": 95,
+    "timestamp": "2026-01-09T19:15:58.191256",
+    "data": {
+      "timestamp": "2026-01-09T19:15:58.191256",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "94dbd6fd83816557bfb92df90bc808206f64f7ba42e837761b1538898909e94c",
+    "hash": "ebf083201bb7d8482638df3c9522ca53b742cc1fd60194f5910bd17dbe996929"
+  },
+  {
+    "index": 96,
+    "timestamp": "2026-01-09T19:16:03.078720",
+    "data": {
+      "timestamp": "2026-01-09T19:16:03.078720",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ebf083201bb7d8482638df3c9522ca53b742cc1fd60194f5910bd17dbe996929",
+    "hash": "edefd3a10f17f5906406beae91853f658eda223d86361a8a6e73e2aa54f64232"
+  },
+  {
+    "index": 97,
+    "timestamp": "2026-01-09T19:16:13.661757",
+    "data": {
+      "timestamp": "2026-01-09T19:16:13.661757",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "edefd3a10f17f5906406beae91853f658eda223d86361a8a6e73e2aa54f64232",
+    "hash": "ddb54b669e30c57f34472ebb77877ead3346fe9624edfbdd1e2ba65c4143a4d9"
+  },
+  {
+    "index": 98,
+    "timestamp": "2026-01-09T19:16:19.036427",
+    "data": {
+      "timestamp": "2026-01-09T19:16:19.036427",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ddb54b669e30c57f34472ebb77877ead3346fe9624edfbdd1e2ba65c4143a4d9",
+    "hash": "023fa64e04b2045ead3ae737f6e303c76919f75c0b3dd910a962c6db28778f0b"
+  },
+  {
+    "index": 99,
+    "timestamp": "2026-01-09T19:18:50.133860",
+    "data": {
+      "timestamp": "2026-01-09T19:18:50.133860",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "023fa64e04b2045ead3ae737f6e303c76919f75c0b3dd910a962c6db28778f0b",
+    "hash": "9f0fd00cd1e0a780fa8255a3dfedba82ba4cf5049ce7687add323d971ecba2e7"
+  },
+  {
+    "index": 100,
+    "timestamp": "2026-01-09T19:18:52.399000",
+    "data": {
+      "timestamp": "2026-01-09T19:18:52.399000",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9f0fd00cd1e0a780fa8255a3dfedba82ba4cf5049ce7687add323d971ecba2e7",
+    "hash": "587e63e44c20fb7b43e2e65580613aa9812425dc59dfc7e87a12d5a5c3ae46e4"
+  },
+  {
+    "index": 101,
+    "timestamp": "2026-01-09T19:23:05.159789",
+    "data": {
+      "timestamp": "2026-01-09T19:23:05.159789",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "587e63e44c20fb7b43e2e65580613aa9812425dc59dfc7e87a12d5a5c3ae46e4",
+    "hash": "e4174de0bb15cfaeb33f0f066f6b7900a42c9337668624b5a150a340edb4eabe"
+  },
+  {
+    "index": 102,
+    "timestamp": "2026-01-09T19:23:13.934860",
+    "data": {
+      "timestamp": "2026-01-09T19:23:13.934860",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "e4174de0bb15cfaeb33f0f066f6b7900a42c9337668624b5a150a340edb4eabe",
+    "hash": "791ff51484f347574ba669a0966b4ae1f1e208771120665c583f17f59e569d00"
+  },
+  {
+    "index": 103,
+    "timestamp": "2026-01-09T19:23:20.868559",
+    "data": {
+      "timestamp": "2026-01-09T19:23:20.868559",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "791ff51484f347574ba669a0966b4ae1f1e208771120665c583f17f59e569d00",
+    "hash": "38a29ed20ae9a48375493968ecdb2bc459cbdfc5a20661a566a429d468e2120e"
+  },
+  {
+    "index": 104,
+    "timestamp": "2026-01-09T19:23:23.019428",
+    "data": {
+      "timestamp": "2026-01-09T19:23:23.019428",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "38a29ed20ae9a48375493968ecdb2bc459cbdfc5a20661a566a429d468e2120e",
+    "hash": "0e93147fa93e1326b4d43394a199802acef3ad3b9dc3c153bee327c5e03288e6"
+  },
+  {
+    "index": 105,
+    "timestamp": "2026-01-09T19:23:27.560868",
+    "data": {
+      "timestamp": "2026-01-09T19:23:27.560868",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "0e93147fa93e1326b4d43394a199802acef3ad3b9dc3c153bee327c5e03288e6",
+    "hash": "4b5437ac41c5cffe3c08cf16c70401dafe98d5a7e9f4bf7982fbdcd4f1d73f8f"
+  },
+  {
+    "index": 106,
+    "timestamp": "2026-01-09T19:23:30.373597",
+    "data": {
+      "timestamp": "2026-01-09T19:23:30.373597",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "4b5437ac41c5cffe3c08cf16c70401dafe98d5a7e9f4bf7982fbdcd4f1d73f8f",
+    "hash": "daad89379bafb3c566fe6002bd88919ea25ff6848ee2d452738d3d6777bb66eb"
+  },
+  {
+    "index": 107,
+    "timestamp": "2026-01-09T19:23:37.936653",
+    "data": {
+      "timestamp": "2026-01-09T19:23:37.936653",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "daad89379bafb3c566fe6002bd88919ea25ff6848ee2d452738d3d6777bb66eb",
+    "hash": "61c1e69b20da3315c32101b830ca6fbc4113f0181cfbe194284fb6a42d84211b"
+  },
+  {
+    "index": 108,
+    "timestamp": "2026-01-09T19:23:43.193567",
+    "data": {
+      "timestamp": "2026-01-09T19:23:43.193567",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "61c1e69b20da3315c32101b830ca6fbc4113f0181cfbe194284fb6a42d84211b",
+    "hash": "5704cc2e0f7c138cb33a728b04145e1cd907d14c35dd44a045328941bc41bdfa"
+  },
+  {
+    "index": 109,
+    "timestamp": "2026-01-09T19:23:53.744828",
+    "data": {
+      "timestamp": "2026-01-09T19:23:53.744828",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "5704cc2e0f7c138cb33a728b04145e1cd907d14c35dd44a045328941bc41bdfa",
+    "hash": "7dcc584f2e1d726304794d05d18bc44eb7090996a289c63d7453adb5c2586078"
+  },
+  {
+    "index": 110,
+    "timestamp": "2026-01-09T19:23:55.632126",
+    "data": {
+      "timestamp": "2026-01-09T19:23:55.632126",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "7dcc584f2e1d726304794d05d18bc44eb7090996a289c63d7453adb5c2586078",
+    "hash": "3ba5f9f02ff6419e0914155649ec2dd7613f3fff1ef1cfb3cac4dbe27c2240d8"
+  },
+  {
+    "index": 111,
+    "timestamp": "2026-01-09T19:23:57.982481",
+    "data": {
+      "timestamp": "2026-01-09T19:23:57.982481",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3ba5f9f02ff6419e0914155649ec2dd7613f3fff1ef1cfb3cac4dbe27c2240d8",
+    "hash": "8e2a0010b0d61b54adf1cad69c70249d053b24cebedaf87d4765e8bc0e4f458a"
+  },
+  {
+    "index": 112,
+    "timestamp": "2026-01-09T19:24:14.960986",
+    "data": {
+      "timestamp": "2026-01-09T19:24:14.960986",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "8e2a0010b0d61b54adf1cad69c70249d053b24cebedaf87d4765e8bc0e4f458a",
+    "hash": "bf3c0c16114eae539ae22999fcc88a3393ef947111f63fea68e001ea029213dc"
+  },
+  {
+    "index": 113,
+    "timestamp": "2026-01-09T19:24:28.847869",
+    "data": {
+      "timestamp": "2026-01-09T19:24:28.847869",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "bf3c0c16114eae539ae22999fcc88a3393ef947111f63fea68e001ea029213dc",
+    "hash": "19b4e65281d948e7d8c2b9ab535a64e909e189d25d294bf21b94acd311bf014b"
+  },
+  {
+    "index": 114,
+    "timestamp": "2026-01-09T19:24:30.579719",
+    "data": {
+      "timestamp": "2026-01-09T19:24:30.579719",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "19b4e65281d948e7d8c2b9ab535a64e909e189d25d294bf21b94acd311bf014b",
+    "hash": "cf75e9a16af51d62ff86030b63054572e7ed8d15de7f03050d3ef6d4b6e9ac3f"
+  },
+  {
+    "index": 115,
+    "timestamp": "2026-01-09T19:24:32.850638",
+    "data": {
+      "timestamp": "2026-01-09T19:24:32.850638",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Social Market Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "cf75e9a16af51d62ff86030b63054572e7ed8d15de7f03050d3ef6d4b6e9ac3f",
+    "hash": "073b6332488c0df01702c88e04e25674fbaad2a49da0d7bfcb51da60d6fdc539"
+  },
+  {
+    "index": 116,
+    "timestamp": "2026-01-09T19:24:36.842605",
+    "data": {
+      "timestamp": "2026-01-09T19:24:36.842605",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "073b6332488c0df01702c88e04e25674fbaad2a49da0d7bfcb51da60d6fdc539",
+    "hash": "520c454475bb80b912cbb9a2486da46b9cdfbc1f902bb4ecef175ce84fdb322f"
+  },
+  {
+    "index": 117,
+    "timestamp": "2026-01-09T19:24:39.522197",
+    "data": {
+      "timestamp": "2026-01-09T19:24:39.522197",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "520c454475bb80b912cbb9a2486da46b9cdfbc1f902bb4ecef175ce84fdb322f",
+    "hash": "472d8f97b5e47ff6022ec5aca21af7043c28f7f5684e9228d33af5c9cf5e5f41"
+  },
+  {
+    "index": 118,
+    "timestamp": "2026-01-09T19:24:49.113783",
+    "data": {
+      "timestamp": "2026-01-09T19:24:49.113783",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Workflow Automation",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "472d8f97b5e47ff6022ec5aca21af7043c28f7f5684e9228d33af5c9cf5e5f41",
+    "hash": "81a66b66dc205b1e387eb73f7cc4daaf217efe54496e9e14cac09f2278686213"
+  },
+  {
+    "index": 119,
+    "timestamp": "2026-01-09T19:24:52.633103",
+    "data": {
+      "timestamp": "2026-01-09T19:24:52.633103",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Legacy Dashboard",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "81a66b66dc205b1e387eb73f7cc4daaf217efe54496e9e14cac09f2278686213",
+    "hash": "0f8cda28c9086836d05b65fa8c0c6292ea1e065f9dc5f684e97a00a41d1be08b"
+  },
+  {
+    "index": 120,
+    "timestamp": "2026-01-09T23:38:17.669547",
+    "data": {
+      "timestamp": "2026-01-09T23:38:17.669547",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "0f8cda28c9086836d05b65fa8c0c6292ea1e065f9dc5f684e97a00a41d1be08b",
+    "hash": "af63b50ef70088fe24f73eb0317dfde592c94a2069addf232699ee4200afa112"
+  },
+  {
+    "index": 121,
+    "timestamp": "2026-01-09T23:38:23.309863",
+    "data": {
+      "timestamp": "2026-01-09T23:38:23.309863",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "af63b50ef70088fe24f73eb0317dfde592c94a2069addf232699ee4200afa112",
+    "hash": "795c922122cd0dd55f923be9d7191a83bdca928bc37fdde17ffca36a3e9add3e"
+  },
+  {
+    "index": 122,
+    "timestamp": "2026-01-09T23:38:36.998717",
+    "data": {
+      "timestamp": "2026-01-09T23:38:36.998717",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "795c922122cd0dd55f923be9d7191a83bdca928bc37fdde17ffca36a3e9add3e",
+    "hash": "86f811b2a5ca027a7f4a6312c6e7582e24ac763959b4561a9c33e062d92ff460"
+  },
+  {
+    "index": 123,
+    "timestamp": "2026-01-09T23:38:43.131854",
+    "data": {
+      "timestamp": "2026-01-09T23:38:43.131854",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "86f811b2a5ca027a7f4a6312c6e7582e24ac763959b4561a9c33e062d92ff460",
+    "hash": "b472ff08e45cb9e5e6827fe8327e43745c313fe32e4a19cb4f47d30ae1d0509a"
+  },
+  {
+    "index": 124,
+    "timestamp": "2026-01-09T23:38:47.599901",
+    "data": {
+      "timestamp": "2026-01-09T23:38:47.599901",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "b472ff08e45cb9e5e6827fe8327e43745c313fe32e4a19cb4f47d30ae1d0509a",
+    "hash": "2f55b9612383f464902d292eadae4282f8882a7fa8dc53ea24010cc28c2c131b"
+  },
+  {
+    "index": 125,
+    "timestamp": "2026-01-09T23:38:56.626131",
+    "data": {
+      "timestamp": "2026-01-09T23:38:56.626131",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2f55b9612383f464902d292eadae4282f8882a7fa8dc53ea24010cc28c2c131b",
+    "hash": "9f075fac4ca4c1717418c29a9a649ee7f2238c74eb7cc8ff2ab480db237fc051"
+  },
+  {
+    "index": 126,
+    "timestamp": "2026-01-09T23:39:03.671744",
+    "data": {
+      "timestamp": "2026-01-09T23:39:03.671744",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9f075fac4ca4c1717418c29a9a649ee7f2238c74eb7cc8ff2ab480db237fc051",
+    "hash": "cdb910800be269d5670af2607977b7b4dc4ff21be32a50b34b67f9aa4b5a262e"
+  },
+  {
+    "index": 127,
+    "timestamp": "2026-01-09T23:40:10.769729",
+    "data": {
+      "timestamp": "2026-01-09T23:40:10.769729",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "cdb910800be269d5670af2607977b7b4dc4ff21be32a50b34b67f9aa4b5a262e",
+    "hash": "f7e44cb558764ad482f52c855fc501a3b9bad2748e507b45652c683359951dd0"
+  },
+  {
+    "index": 128,
+    "timestamp": "2026-01-09T23:40:15.490651",
+    "data": {
+      "timestamp": "2026-01-09T23:40:15.490651",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f7e44cb558764ad482f52c855fc501a3b9bad2748e507b45652c683359951dd0",
+    "hash": "25a901665b0317efe362e642c7a8bc81ad0e50a8e347f785d966d8196d87ba90"
+  },
+  {
+    "index": 129,
+    "timestamp": "2026-01-09T23:40:18.449062",
+    "data": {
+      "timestamp": "2026-01-09T23:40:18.449062",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "25a901665b0317efe362e642c7a8bc81ad0e50a8e347f785d966d8196d87ba90",
+    "hash": "362cde7cdf3c73e2216daf9ae8470c913e1292e7ba438b1b998d70809eaa24f4"
+  },
+  {
+    "index": 130,
+    "timestamp": "2026-01-09T23:40:22.262005",
+    "data": {
+      "timestamp": "2026-01-09T23:40:22.262005",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "362cde7cdf3c73e2216daf9ae8470c913e1292e7ba438b1b998d70809eaa24f4",
+    "hash": "49032c51bf03b597ea2dc39ca7526027100e5b72034c6ade8d711795bfeb983a"
+  },
+  {
+    "index": 131,
+    "timestamp": "2026-01-09T23:40:28.180996",
+    "data": {
+      "timestamp": "2026-01-09T23:40:28.180996",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "49032c51bf03b597ea2dc39ca7526027100e5b72034c6ade8d711795bfeb983a",
+    "hash": "3f1a498dd7d945a4e1abe89adb2d2c21ee37742020b465a8a017cff26ed15c6d"
+  },
+  {
+    "index": 132,
+    "timestamp": "2026-01-09T23:40:30.047365",
+    "data": {
+      "timestamp": "2026-01-09T23:40:30.047365",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3f1a498dd7d945a4e1abe89adb2d2c21ee37742020b465a8a017cff26ed15c6d",
+    "hash": "eeb30f42099b7fbc4affa6152c5f24f6e0f1b2298a915e2427e07b1f603739b2"
+  },
+  {
+    "index": 133,
+    "timestamp": "2026-01-09T23:40:32.422140",
+    "data": {
+      "timestamp": "2026-01-09T23:40:32.422140",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "eeb30f42099b7fbc4affa6152c5f24f6e0f1b2298a915e2427e07b1f603739b2",
+    "hash": "ff8a8f21736ab011999f8f5073fb4f4a18b3bfff6890665ad5df6376a0fce7ce"
+  },
+  {
+    "index": 134,
+    "timestamp": "2026-01-09T23:40:35.379870",
+    "data": {
+      "timestamp": "2026-01-09T23:40:35.379870",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ff8a8f21736ab011999f8f5073fb4f4a18b3bfff6890665ad5df6376a0fce7ce",
+    "hash": "7d73b6b8347c23feb74e03294ad88e3124da14c50809ed5096e7f94e12415793"
+  },
+  {
+    "index": 135,
+    "timestamp": "2026-01-09T23:54:53.440174",
+    "data": {
+      "timestamp": "2026-01-09T23:54:53.440174",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "7d73b6b8347c23feb74e03294ad88e3124da14c50809ed5096e7f94e12415793",
+    "hash": "d704ca6838c8febad141fdfd092eafd5a76dd2ea4245b2d5ed469072a3fda686"
+  },
+  {
+    "index": 136,
+    "timestamp": "2026-01-09T23:55:02.494134",
+    "data": {
+      "timestamp": "2026-01-09T23:55:02.494134",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d704ca6838c8febad141fdfd092eafd5a76dd2ea4245b2d5ed469072a3fda686",
+    "hash": "f144adb3f482afe3eb6ad5eec325fa7de5a8c99ead87c5dd47572350a9ac19ac"
+  },
+  {
+    "index": 137,
+    "timestamp": "2026-01-09T23:55:07.082945",
+    "data": {
+      "timestamp": "2026-01-09T23:55:07.082945",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f144adb3f482afe3eb6ad5eec325fa7de5a8c99ead87c5dd47572350a9ac19ac",
+    "hash": "70081672230ea83d3763c0a3cc8898423326b683ea2d1c8653a1caf9bd7a6219"
+  },
+  {
+    "index": 138,
+    "timestamp": "2026-01-09T23:55:16.143852",
+    "data": {
+      "timestamp": "2026-01-09T23:55:16.143852",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "70081672230ea83d3763c0a3cc8898423326b683ea2d1c8653a1caf9bd7a6219",
+    "hash": "b0fb3ea4c3b06fee5c23914328822891d436ff3326e80188c0ee0c58952e5ba3"
+  },
+  {
+    "index": 139,
+    "timestamp": "2026-01-09T23:55:40.688642",
+    "data": {
+      "timestamp": "2026-01-09T23:55:40.688642",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "b0fb3ea4c3b06fee5c23914328822891d436ff3326e80188c0ee0c58952e5ba3",
+    "hash": "f4198e01ad642e23cbd866c00310ec90afd7964887ea12e4d7e59697bf27c2f6"
+  },
+  {
+    "index": 140,
+    "timestamp": "2026-01-09T23:55:43.703713",
+    "data": {
+      "timestamp": "2026-01-09T23:55:43.703713",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f4198e01ad642e23cbd866c00310ec90afd7964887ea12e4d7e59697bf27c2f6",
+    "hash": "2e2737371045805665072c1c104464d4d112ed7392844969508ddbe3c796a61f"
+  },
+  {
+    "index": 141,
+    "timestamp": "2026-01-09T23:55:50.526173",
+    "data": {
+      "timestamp": "2026-01-09T23:55:50.526173",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2e2737371045805665072c1c104464d4d112ed7392844969508ddbe3c796a61f",
+    "hash": "87bda002a48c563125a2bdd80ceec89cba8e0cd1b5267fe012aafed1af1bd104"
+  },
+  {
+    "index": 142,
+    "timestamp": "2026-01-09T23:55:57.994346",
+    "data": {
+      "timestamp": "2026-01-09T23:55:57.994346",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "87bda002a48c563125a2bdd80ceec89cba8e0cd1b5267fe012aafed1af1bd104",
+    "hash": "c3a29093549deb821d5c5a80a4b4017545b2458c6554cd75eee0374c98fe1fc0"
+  },
+  {
+    "index": 143,
+    "timestamp": "2026-01-09T23:56:06.961106",
+    "data": {
+      "timestamp": "2026-01-09T23:56:06.961106",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c3a29093549deb821d5c5a80a4b4017545b2458c6554cd75eee0374c98fe1fc0",
+    "hash": "da1c8ba3be098aef67d630b575dbae20ca4691a20096413c85468bebcb599f18"
+  },
+  {
+    "index": 144,
+    "timestamp": "2026-01-09T23:56:08.171863",
+    "data": {
+      "timestamp": "2026-01-09T23:56:08.171863",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "da1c8ba3be098aef67d630b575dbae20ca4691a20096413c85468bebcb599f18",
+    "hash": "42e82c3dd94f4cb709c76c560130a969a92348da010b6255abfa76764a7dbb3c"
+  },
+  {
+    "index": 145,
+    "timestamp": "2026-01-09T23:56:15.638816",
+    "data": {
+      "timestamp": "2026-01-09T23:56:15.638816",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "42e82c3dd94f4cb709c76c560130a969a92348da010b6255abfa76764a7dbb3c",
+    "hash": "f5ece48f5003be08d5562886f0c12b110d39f06e1a8345d0c5e6043e8dd029cc"
+  },
+  {
+    "index": 146,
+    "timestamp": "2026-01-09T23:56:19.303412",
+    "data": {
+      "timestamp": "2026-01-09T23:56:19.303412",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f5ece48f5003be08d5562886f0c12b110d39f06e1a8345d0c5e6043e8dd029cc",
+    "hash": "2e2749dd00e932bd0e2383e9c5c547bdb39d88981e89f4910b782aa828d9944a"
+  },
+  {
+    "index": 147,
+    "timestamp": "2026-01-09T23:56:23.916835",
+    "data": {
+      "timestamp": "2026-01-09T23:56:23.916835",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2e2749dd00e932bd0e2383e9c5c547bdb39d88981e89f4910b782aa828d9944a",
+    "hash": "4cbf6685facc4ff262b19c4cc72781e956015ff00e82cec9fd6d4f7441397123"
+  },
+  {
+    "index": 148,
+    "timestamp": "2026-01-09T23:56:28.309240",
+    "data": {
+      "timestamp": "2026-01-09T23:56:28.309240",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "4cbf6685facc4ff262b19c4cc72781e956015ff00e82cec9fd6d4f7441397123",
+    "hash": "abc5a7a123a2d8be684057ae84ed96be95d3d8b8444faefe40d458de4004ae4f"
+  },
+  {
+    "index": 149,
+    "timestamp": "2026-01-09T23:56:31.340501",
+    "data": {
+      "timestamp": "2026-01-09T23:56:31.340501",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Social Market Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "abc5a7a123a2d8be684057ae84ed96be95d3d8b8444faefe40d458de4004ae4f",
+    "hash": "044db8629ebbdace7514165686d2980a602d74aa4432ff3392f7b1cfaaaefbcd"
+  },
+  {
+    "index": 150,
+    "timestamp": "2026-01-09T23:56:36.058367",
+    "data": {
+      "timestamp": "2026-01-09T23:56:36.058367",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "044db8629ebbdace7514165686d2980a602d74aa4432ff3392f7b1cfaaaefbcd",
+    "hash": "e5e5be432a0e698bdaf993c73317c6a427a5ada63ffb3f24fede4fdd477b8d4e"
+  },
+  {
+    "index": 151,
+    "timestamp": "2026-01-09T23:56:38.468040",
+    "data": {
+      "timestamp": "2026-01-09T23:56:38.468040",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "e5e5be432a0e698bdaf993c73317c6a427a5ada63ffb3f24fede4fdd477b8d4e",
+    "hash": "97679bcb68fb4d0ab5c719350c6b23767dea446b492ab2489654cdb3c0697c32"
+  },
+  {
+    "index": 152,
+    "timestamp": "2026-01-09T23:56:41.589987",
+    "data": {
+      "timestamp": "2026-01-09T23:56:41.589987",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Workflow Automation",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "97679bcb68fb4d0ab5c719350c6b23767dea446b492ab2489654cdb3c0697c32",
+    "hash": "242a20603ae10d2f56f1090fd4b843dc6b9e9a48c2bcd10bb1074a149820d9b9"
+  },
+  {
+    "index": 153,
+    "timestamp": "2026-01-09T23:56:45.695864",
+    "data": {
+      "timestamp": "2026-01-09T23:56:45.695864",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Legacy Dashboard",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "242a20603ae10d2f56f1090fd4b843dc6b9e9a48c2bcd10bb1074a149820d9b9",
+    "hash": "f4163e6be3bb43553528b05e9d310bee06fa2e3f3e8cf56c7e2c3ef4237f3b58"
+  },
+  {
+    "index": 154,
+    "timestamp": "2026-01-09T23:56:53.466578",
+    "data": {
+      "timestamp": "2026-01-09T23:56:53.466578",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f4163e6be3bb43553528b05e9d310bee06fa2e3f3e8cf56c7e2c3ef4237f3b58",
+    "hash": "ebc08b03bd118baa6c792c219ed69d3d83715cf3ddef5809af39aa31a2ba5fde"
+  },
+  {
+    "index": 155,
+    "timestamp": "2026-01-09T23:56:56.447649",
+    "data": {
+      "timestamp": "2026-01-09T23:56:56.447649",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ebc08b03bd118baa6c792c219ed69d3d83715cf3ddef5809af39aa31a2ba5fde",
+    "hash": "7b9d11a31e8ffcd1eab226b5168bf8adcd59fce3f64caee43ce1efc0f4ab6274"
+  },
+  {
+    "index": 156,
+    "timestamp": "2026-01-09T23:57:01.748485",
+    "data": {
+      "timestamp": "2026-01-09T23:57:01.748485",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "7b9d11a31e8ffcd1eab226b5168bf8adcd59fce3f64caee43ce1efc0f4ab6274",
+    "hash": "b2fc86260e5f6189f62ee3639938bb0908222d16a1a3fc10569175c59120479d"
+  },
+  {
+    "index": 157,
+    "timestamp": "2026-01-09T23:58:38.416591",
+    "data": {
+      "timestamp": "2026-01-09T23:58:38.416591",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "b2fc86260e5f6189f62ee3639938bb0908222d16a1a3fc10569175c59120479d",
+    "hash": "a0f50f8eb693325f88c964a45a1e5c58da385715d6f5c5ade8a7ec2b7eeeba8d"
+  },
+  {
+    "index": 158,
+    "timestamp": "2026-01-09T23:58:39.509458",
+    "data": {
+      "timestamp": "2026-01-09T23:58:39.509458",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a0f50f8eb693325f88c964a45a1e5c58da385715d6f5c5ade8a7ec2b7eeeba8d",
+    "hash": "57ac09ab1e276c6e2c5468cd8bf56b30d3600d0c231882789bd733d926b5908d"
+  },
+  {
+    "index": 159,
+    "timestamp": "2026-01-09T23:58:42.517736",
+    "data": {
+      "timestamp": "2026-01-09T23:58:42.517736",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "57ac09ab1e276c6e2c5468cd8bf56b30d3600d0c231882789bd733d926b5908d",
+    "hash": "7d2e0c6cb8bbee0bfcebfd30a50386bffe7701d7636e90e69e285a7d54dc95ef"
+  },
+  {
+    "index": 160,
+    "timestamp": "2026-01-09T23:58:49.117516",
+    "data": {
+      "timestamp": "2026-01-09T23:58:49.117516",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "7d2e0c6cb8bbee0bfcebfd30a50386bffe7701d7636e90e69e285a7d54dc95ef",
+    "hash": "4c16a08da3b0768f4d3287d4f0bf518cf8ec24add4b9e8c8ab326e1c5e43ea7a"
+  },
+  {
+    "index": 161,
+    "timestamp": "2026-01-09T23:58:53.930713",
+    "data": {
+      "timestamp": "2026-01-09T23:58:53.930713",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "4c16a08da3b0768f4d3287d4f0bf518cf8ec24add4b9e8c8ab326e1c5e43ea7a",
+    "hash": "d49e91720d93a4cf856f06f7baa2d5347a6a4a93ae68888a78b0f633a269a496"
+  },
+  {
+    "index": 162,
+    "timestamp": "2026-01-09T23:59:00.516624",
+    "data": {
+      "timestamp": "2026-01-09T23:59:00.516624",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d49e91720d93a4cf856f06f7baa2d5347a6a4a93ae68888a78b0f633a269a496",
+    "hash": "f7602dd40b52036cd5ec7821a70b2c209137b0463ab0bad988dae256fff51a57"
+  },
+  {
+    "index": 163,
+    "timestamp": "2026-01-09T23:59:07.618072",
+    "data": {
+      "timestamp": "2026-01-09T23:59:07.618072",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f7602dd40b52036cd5ec7821a70b2c209137b0463ab0bad988dae256fff51a57",
+    "hash": "c83666e9a5d53330aaa558895ec0ba0c3a4b7c32e4e529852f0410bc452943a0"
+  },
+  {
+    "index": 164,
+    "timestamp": "2026-01-09T23:59:21.090081",
+    "data": {
+      "timestamp": "2026-01-09T23:59:21.090081",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c83666e9a5d53330aaa558895ec0ba0c3a4b7c32e4e529852f0410bc452943a0",
+    "hash": "6d08f067257473547ee0eaf21cbc6449caa08d124b221f26ff248281fcd9150b"
+  },
+  {
+    "index": 165,
+    "timestamp": "2026-01-09T23:59:25.596210",
+    "data": {
+      "timestamp": "2026-01-09T23:59:25.596210",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "6d08f067257473547ee0eaf21cbc6449caa08d124b221f26ff248281fcd9150b",
+    "hash": "09ddca002004684bc815bcde47ac6ce7e2ea5894dcb07dd5f851dd080f40669b"
+  },
+  {
+    "index": 166,
+    "timestamp": "2026-01-09T23:59:41.816728",
+    "data": {
+      "timestamp": "2026-01-09T23:59:41.816728",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "09ddca002004684bc815bcde47ac6ce7e2ea5894dcb07dd5f851dd080f40669b",
+    "hash": "9c77911e31644793aeb041981a2f2bdf465e7dcf0dfdc8673aa458c52f58734b"
+  },
+  {
+    "index": 167,
+    "timestamp": "2026-01-09T23:59:46.900302",
+    "data": {
+      "timestamp": "2026-01-09T23:59:46.900302",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9c77911e31644793aeb041981a2f2bdf465e7dcf0dfdc8673aa458c52f58734b",
+    "hash": "3fdc19099945a05e1392f44abc8617929e730008a35a920af4b5e09ca50b74c5"
+  },
+  {
+    "index": 168,
+    "timestamp": "2026-01-09T23:59:52.517084",
+    "data": {
+      "timestamp": "2026-01-09T23:59:52.517084",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3fdc19099945a05e1392f44abc8617929e730008a35a920af4b5e09ca50b74c5",
+    "hash": "27393d277822803af807d3a966fe059015c3175c12ac1cedfe62232ef365f3d4"
+  },
+  {
+    "index": 169,
+    "timestamp": "2026-01-09T23:59:58.348283",
+    "data": {
+      "timestamp": "2026-01-09T23:59:58.348283",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Social Market Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "27393d277822803af807d3a966fe059015c3175c12ac1cedfe62232ef365f3d4",
+    "hash": "9b77b451b04d8c6c22768db98a00408d77229d469a7d017bec614940120ae710"
+  },
+  {
+    "index": 170,
+    "timestamp": "2026-01-10T00:00:01.783422",
+    "data": {
+      "timestamp": "2026-01-10T00:00:01.783422",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "9b77b451b04d8c6c22768db98a00408d77229d469a7d017bec614940120ae710",
+    "hash": "d29808fc6d86ddfc36d6e71456c561dd24ad66df33015db8807b98ec557a51eb"
+  },
+  {
+    "index": 171,
+    "timestamp": "2026-01-10T00:00:05.894341",
+    "data": {
+      "timestamp": "2026-01-10T00:00:05.894341",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d29808fc6d86ddfc36d6e71456c561dd24ad66df33015db8807b98ec557a51eb",
+    "hash": "ea440a7885441af141f30422178dce7735014b45ca535dbf7f3b18f585457d09"
+  },
+  {
+    "index": 172,
+    "timestamp": "2026-01-10T00:00:14.550635",
+    "data": {
+      "timestamp": "2026-01-10T00:00:14.550635",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Workflow Automation",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ea440a7885441af141f30422178dce7735014b45ca535dbf7f3b18f585457d09",
+    "hash": "8174cd5083b041733c7ebe58f74507ea389c4f5abe27b245918174d95a7c0226"
+  },
+  {
+    "index": 173,
+    "timestamp": "2026-01-10T00:00:19.097221",
+    "data": {
+      "timestamp": "2026-01-10T00:00:19.097221",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Legacy Dashboard",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "8174cd5083b041733c7ebe58f74507ea389c4f5abe27b245918174d95a7c0226",
+    "hash": "d63370da5f4a6ba43a26241137b323141daf9a6a0db9e27d667a216787f74638"
+  },
+  {
+    "index": 174,
+    "timestamp": "2026-01-10T00:00:25.038846",
+    "data": {
+      "timestamp": "2026-01-10T00:00:25.038846",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Workflow Automation",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d63370da5f4a6ba43a26241137b323141daf9a6a0db9e27d667a216787f74638",
+    "hash": "d8f4be53932ad321bb5d270a09e94c3189006c9515c377147587f4b60e6d0721"
+  },
+  {
+    "index": 175,
+    "timestamp": "2026-01-10T00:00:26.929643",
+    "data": {
+      "timestamp": "2026-01-10T00:00:26.929643",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d8f4be53932ad321bb5d270a09e94c3189006c9515c377147587f4b60e6d0721",
+    "hash": "28abb04f3cc2ce556ab5e3720721dda06c2d32d7b2e5eba0b9417122c02d40f5"
+  },
+  {
+    "index": 176,
+    "timestamp": "2026-01-10T00:03:10.822434",
+    "data": {
+      "timestamp": "2026-01-10T00:03:10.822434",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "28abb04f3cc2ce556ab5e3720721dda06c2d32d7b2e5eba0b9417122c02d40f5",
+    "hash": "428a93ca0d817d9e607d7cfe8b119672bffa67a788cbcc900362159be2034ab6"
+  },
+  {
+    "index": 177,
+    "timestamp": "2026-01-10T00:03:11.772521",
+    "data": {
+      "timestamp": "2026-01-10T00:03:11.772521",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "428a93ca0d817d9e607d7cfe8b119672bffa67a788cbcc900362159be2034ab6",
+    "hash": "d9b050bf2947dfff3153c8d37a38720b00f816fc10b8014aa48ea8560a9361e8"
+  },
+  {
+    "index": 178,
+    "timestamp": "2026-01-10T00:03:14.993953",
+    "data": {
+      "timestamp": "2026-01-10T00:03:14.993953",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d9b050bf2947dfff3153c8d37a38720b00f816fc10b8014aa48ea8560a9361e8",
+    "hash": "16eeee914723d213cad5b4efa8d3f53bee03f28b9bf4528ab35d9983578a2bb3"
+  },
+  {
+    "index": 179,
+    "timestamp": "2026-01-10T00:03:19.482896",
+    "data": {
+      "timestamp": "2026-01-10T00:03:19.482896",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "16eeee914723d213cad5b4efa8d3f53bee03f28b9bf4528ab35d9983578a2bb3",
+    "hash": "aa6d8849446bb6c26f645b6650ddb7bffee8cf3f6548428ff6cae57ada7287c0"
+  },
+  {
+    "index": 180,
+    "timestamp": "2026-01-10T00:03:23.573792",
+    "data": {
+      "timestamp": "2026-01-10T00:03:23.573792",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "aa6d8849446bb6c26f645b6650ddb7bffee8cf3f6548428ff6cae57ada7287c0",
+    "hash": "815ee700fdd8180b103f8a8c8af5bf5a1a9a1b38b89b45dd262f69a056bd61b0"
+  },
+  {
+    "index": 181,
+    "timestamp": "2026-01-10T00:03:30.178311",
+    "data": {
+      "timestamp": "2026-01-10T00:03:30.178311",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "815ee700fdd8180b103f8a8c8af5bf5a1a9a1b38b89b45dd262f69a056bd61b0",
+    "hash": "c95cfa9c3bcd2459641af647503b136188a033c29a9d3b17430db62a144001cb"
+  },
+  {
+    "index": 182,
+    "timestamp": "2026-01-10T00:03:34.607534",
+    "data": {
+      "timestamp": "2026-01-10T00:03:34.607534",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c95cfa9c3bcd2459641af647503b136188a033c29a9d3b17430db62a144001cb",
+    "hash": "2464a8fd807dc8599cd2ed74cea05641ff6d88a3a41cb00a67c4ab2da0201a2d"
+  },
+  {
+    "index": 183,
+    "timestamp": "2026-01-10T00:03:39.799657",
+    "data": {
+      "timestamp": "2026-01-10T00:03:39.799657",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2464a8fd807dc8599cd2ed74cea05641ff6d88a3a41cb00a67c4ab2da0201a2d",
+    "hash": "de49e15710e40c870098a873084da8a7c962803be58ef6d615bc1469ea315e1c"
+  },
+  {
+    "index": 184,
+    "timestamp": "2026-01-10T00:03:43.466229",
+    "data": {
+      "timestamp": "2026-01-10T00:03:43.466229",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "de49e15710e40c870098a873084da8a7c962803be58ef6d615bc1469ea315e1c",
+    "hash": "5d9127a8f72a98141ed53898c1c24b24a62e8ab1814756f5fb8ee52268c02cd8"
+  },
+  {
+    "index": 185,
+    "timestamp": "2026-01-10T00:03:50.326102",
+    "data": {
+      "timestamp": "2026-01-10T00:03:50.326102",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "5d9127a8f72a98141ed53898c1c24b24a62e8ab1814756f5fb8ee52268c02cd8",
+    "hash": "49e64fdcd333f5e8f7f3878cc7a2d9f566832c804e87dc015fdc3beaff17010d"
+  },
+  {
+    "index": 186,
+    "timestamp": "2026-01-10T00:03:56.856285",
+    "data": {
+      "timestamp": "2026-01-10T00:03:56.856285",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "49e64fdcd333f5e8f7f3878cc7a2d9f566832c804e87dc015fdc3beaff17010d",
+    "hash": "e283e520961b00d0bf821a7fadf03a04aa454c1ee45927d4d5a1969b46fa22cd"
+  },
+  {
+    "index": 187,
+    "timestamp": "2026-01-10T00:03:59.661762",
+    "data": {
+      "timestamp": "2026-01-10T00:03:59.661762",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "e283e520961b00d0bf821a7fadf03a04aa454c1ee45927d4d5a1969b46fa22cd",
+    "hash": "5fa888855a372b3c58c46a2f2b6240fcdeb9b30350acddaa68b685aabda6065f"
+  },
+  {
+    "index": 188,
+    "timestamp": "2026-01-10T00:04:03.746939",
+    "data": {
+      "timestamp": "2026-01-10T00:04:03.746939",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "5fa888855a372b3c58c46a2f2b6240fcdeb9b30350acddaa68b685aabda6065f",
+    "hash": "419e9c0062bb26c1abe2b5c07f742c0a14a80aa4a6d5e4295f6f47852db08839"
+  },
+  {
+    "index": 189,
+    "timestamp": "2026-01-10T00:04:06.198881",
+    "data": {
+      "timestamp": "2026-01-10T00:04:06.198881",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Social Market Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "419e9c0062bb26c1abe2b5c07f742c0a14a80aa4a6d5e4295f6f47852db08839",
+    "hash": "7ee77575dfb8df9699a052f8f2b6fd79ae7f41a058c388b217a19f3b6bf611e0"
+  },
+  {
+    "index": 190,
+    "timestamp": "2026-01-10T00:04:09.728399",
+    "data": {
+      "timestamp": "2026-01-10T00:04:09.728399",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "7ee77575dfb8df9699a052f8f2b6fd79ae7f41a058c388b217a19f3b6bf611e0",
+    "hash": "57eba2d293b35cfd570107a13cad8929fef49a13cb207ff3e5f6eb6279447fa9"
+  },
+  {
+    "index": 191,
+    "timestamp": "2026-01-10T00:04:13.377993",
+    "data": {
+      "timestamp": "2026-01-10T00:04:13.377993",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "57eba2d293b35cfd570107a13cad8929fef49a13cb207ff3e5f6eb6279447fa9",
+    "hash": "c5d689ee3adb2144a479ba892e37cff1397402f71a0dc2b8d5812afc235ed99a"
+  },
+  {
+    "index": 192,
+    "timestamp": "2026-01-10T00:04:24.259096",
+    "data": {
+      "timestamp": "2026-01-10T00:04:24.259096",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Workflow Automation",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c5d689ee3adb2144a479ba892e37cff1397402f71a0dc2b8d5812afc235ed99a",
+    "hash": "70b13938b86d2a6f44f0e1595931fa1ed928e303bfd2819daee68827adf3f5dd"
+  },
+  {
+    "index": 193,
+    "timestamp": "2026-01-10T00:04:35.319785",
+    "data": {
+      "timestamp": "2026-01-10T00:04:35.319785",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Legacy Dashboard",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "70b13938b86d2a6f44f0e1595931fa1ed928e303bfd2819daee68827adf3f5dd",
+    "hash": "b73f2f43459b116c80dbc50631b5141970a63f180e842c67a359ee684c4ee244"
+  },
+  {
+    "index": 194,
+    "timestamp": "2026-01-10T00:04:41.697143",
+    "data": {
+      "timestamp": "2026-01-10T00:04:41.697143",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "b73f2f43459b116c80dbc50631b5141970a63f180e842c67a359ee684c4ee244",
+    "hash": "1ed6d217db83f2e59a766129d2b60a8d0113c6a04890555f0fb119c5a8b126f6"
+  },
+  {
+    "index": 195,
+    "timestamp": "2026-01-10T00:04:46.447208",
+    "data": {
+      "timestamp": "2026-01-10T00:04:46.447208",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "1ed6d217db83f2e59a766129d2b60a8d0113c6a04890555f0fb119c5a8b126f6",
+    "hash": "74cd8788aa58c5c18a1b6cce07cc299506307f01273e11e169a5d384adada65c"
+  },
+  {
+    "index": 196,
+    "timestamp": "2026-01-10T00:04:49.339198",
+    "data": {
+      "timestamp": "2026-01-10T00:04:49.339198",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "74cd8788aa58c5c18a1b6cce07cc299506307f01273e11e169a5d384adada65c",
+    "hash": "0d9eb2a6d9c32a0678e73db24b6243b0e0f26bfe7837a0e29097f958bdeab3ff"
+  },
+  {
+    "index": 197,
+    "timestamp": "2026-01-10T00:04:56.420595",
+    "data": {
+      "timestamp": "2026-01-10T00:04:56.420595",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "0d9eb2a6d9c32a0678e73db24b6243b0e0f26bfe7837a0e29097f958bdeab3ff",
+    "hash": "3a0d68472d32b62d64ea6f4d138f3b28d72da387b95bc6f528709caa9f34ff2d"
+  },
+  {
+    "index": 198,
+    "timestamp": "2026-01-10T00:04:59.412845",
+    "data": {
+      "timestamp": "2026-01-10T00:04:59.412845",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3a0d68472d32b62d64ea6f4d138f3b28d72da387b95bc6f528709caa9f34ff2d",
+    "hash": "da52aa6c05cecbc516f9ed98859e95ded06e19865dade40373f6021356487690"
+  },
+  {
+    "index": 199,
+    "timestamp": "2026-01-10T00:05:23.705502",
+    "data": {
+      "timestamp": "2026-01-10T00:05:23.705502",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "da52aa6c05cecbc516f9ed98859e95ded06e19865dade40373f6021356487690",
+    "hash": "0381859d7cf27190809ea3780a0826df2a79da9fa90aee45f16529ddde9a299d"
+  },
+  {
+    "index": 200,
+    "timestamp": "2026-01-10T00:05:25.597673",
+    "data": {
+      "timestamp": "2026-01-10T00:05:25.597673",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "0381859d7cf27190809ea3780a0826df2a79da9fa90aee45f16529ddde9a299d",
+    "hash": "47c7ab021edb865d1acbfb340e301c6b524c74aac73044538da7d9a4fa9229c7"
+  },
+  {
+    "index": 201,
+    "timestamp": "2026-01-10T00:05:27.700435",
+    "data": {
+      "timestamp": "2026-01-10T00:05:27.700435",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "47c7ab021edb865d1acbfb340e301c6b524c74aac73044538da7d9a4fa9229c7",
+    "hash": "e2dc4655676bba08a4c9c64e691a16bcaae817e663783074bd49e36d189d4f64"
+  },
+  {
+    "index": 202,
+    "timestamp": "2026-01-10T00:05:29.788805",
+    "data": {
+      "timestamp": "2026-01-10T00:05:29.788805",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "e2dc4655676bba08a4c9c64e691a16bcaae817e663783074bd49e36d189d4f64",
+    "hash": "26aac7603ec48061a8d5d37702282c11a20466d1a57278b892439b9288a4d823"
+  },
+  {
+    "index": 203,
+    "timestamp": "2026-01-10T00:05:32.069504",
+    "data": {
+      "timestamp": "2026-01-10T00:05:32.069504",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "26aac7603ec48061a8d5d37702282c11a20466d1a57278b892439b9288a4d823",
+    "hash": "15cdeeb1a7b27097e324ce73fdb35bff17bf14732385e4056b28e1b6f310ace2"
+  },
+  {
+    "index": 204,
+    "timestamp": "2026-01-10T00:05:34.630773",
+    "data": {
+      "timestamp": "2026-01-10T00:05:34.630773",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "15cdeeb1a7b27097e324ce73fdb35bff17bf14732385e4056b28e1b6f310ace2",
+    "hash": "00c704fda00928c27a71fe8e803ed77a2351559e53b978e1b5eb5979ee5e448b"
+  },
+  {
+    "index": 205,
+    "timestamp": "2026-01-10T00:05:36.947179",
+    "data": {
+      "timestamp": "2026-01-10T00:05:36.947179",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "00c704fda00928c27a71fe8e803ed77a2351559e53b978e1b5eb5979ee5e448b",
+    "hash": "f2be77922962fca86c84782ff71b5b377d87e1e14075dd70de58339cf9ff75aa"
+  },
+  {
+    "index": 206,
+    "timestamp": "2026-01-10T00:05:41.150434",
+    "data": {
+      "timestamp": "2026-01-10T00:05:41.150434",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f2be77922962fca86c84782ff71b5b377d87e1e14075dd70de58339cf9ff75aa",
+    "hash": "82a1699f9d4bd1c10edf2de193bd6c3a08e7a441881eb8bf5e1d45a51fa43f33"
+  },
+  {
+    "index": 207,
+    "timestamp": "2026-03-09T18:59:59.452640",
+    "data": {
+      "timestamp": "2026-03-09T18:59:59.452640",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "82a1699f9d4bd1c10edf2de193bd6c3a08e7a441881eb8bf5e1d45a51fa43f33",
+    "hash": "37314f9ef26224d108cdeb06930bb459b1f7e13566c7b48cb84c63a729b58aba"
+  },
+  {
+    "index": 208,
+    "timestamp": "2026-03-09T19:00:14.742246",
+    "data": {
+      "timestamp": "2026-03-09T19:00:14.742246",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "37314f9ef26224d108cdeb06930bb459b1f7e13566c7b48cb84c63a729b58aba",
+    "hash": "bc433c201a79e809d7b1fab43dd20bd46763e5423fd87f69c7f9539db765f1f4"
+  },
+  {
+    "index": 209,
+    "timestamp": "2026-03-09T19:00:32.011575",
+    "data": {
+      "timestamp": "2026-03-09T19:00:32.011575",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "bc433c201a79e809d7b1fab43dd20bd46763e5423fd87f69c7f9539db765f1f4",
+    "hash": "ad309e4e51d15efa947c9c821c791a8de7145ddc98b45d78a642b1a47a57f0eb"
+  },
+  {
+    "index": 210,
+    "timestamp": "2026-03-09T19:00:43.963407",
+    "data": {
+      "timestamp": "2026-03-09T19:00:43.963407",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ad309e4e51d15efa947c9c821c791a8de7145ddc98b45d78a642b1a47a57f0eb",
+    "hash": "a6119db51dfa0e3d5b65e76e82fe80b65bd6cbab8b416dab1b09b13b231a6985"
+  },
+  {
+    "index": 211,
+    "timestamp": "2026-03-09T19:00:47.859021",
+    "data": {
+      "timestamp": "2026-03-09T19:00:47.859021",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a6119db51dfa0e3d5b65e76e82fe80b65bd6cbab8b416dab1b09b13b231a6985",
+    "hash": "3fd14855ce38aed0ac75728fa99ef38a572b715d52cbca9bdf7c428e8a38deb0"
+  },
+  {
+    "index": 212,
+    "timestamp": "2026-03-09T19:01:02.290906",
+    "data": {
+      "timestamp": "2026-03-09T19:01:02.290906",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3fd14855ce38aed0ac75728fa99ef38a572b715d52cbca9bdf7c428e8a38deb0",
+    "hash": "a0f880e316e91d0827a2218967ea5198db1c2ccb53b63a218d5c40802fac0032"
+  },
+  {
+    "index": 213,
+    "timestamp": "2026-03-09T19:36:27.879542",
+    "data": {
+      "timestamp": "2026-03-09T19:36:27.879542",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "a0f880e316e91d0827a2218967ea5198db1c2ccb53b63a218d5c40802fac0032",
+    "hash": "87ba7dc8ae0598a8c0a2b88bd975bcd6f63c05ffac9b150383196db601b46064"
+  },
+  {
+    "index": 214,
+    "timestamp": "2026-03-09T19:36:34.646901",
+    "data": {
+      "timestamp": "2026-03-09T19:36:34.646901",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "87ba7dc8ae0598a8c0a2b88bd975bcd6f63c05ffac9b150383196db601b46064",
+    "hash": "f7a536301b5ad31c7d5e3472f9e4f54169d3f870302f63bfea433ba592377e87"
+  },
+  {
+    "index": 215,
+    "timestamp": "2026-03-09T19:36:41.961382",
+    "data": {
+      "timestamp": "2026-03-09T19:36:41.961382",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f7a536301b5ad31c7d5e3472f9e4f54169d3f870302f63bfea433ba592377e87",
+    "hash": "ce646dacdd7e0e11bbaf273078fb96a8768e0c06e6911eb03311216d4536b109"
+  },
+  {
+    "index": 216,
+    "timestamp": "2026-03-09T19:36:47.815880",
+    "data": {
+      "timestamp": "2026-03-09T19:36:47.815880",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ce646dacdd7e0e11bbaf273078fb96a8768e0c06e6911eb03311216d4536b109",
+    "hash": "69fc77615bdcc89b9dc2559155b662ff0e0a7faeec8e902cc12dd3675e706f03"
+  },
+  {
+    "index": 217,
+    "timestamp": "2026-03-09T19:40:06.557212",
+    "data": {
+      "timestamp": "2026-03-09T19:40:06.557212",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "69fc77615bdcc89b9dc2559155b662ff0e0a7faeec8e902cc12dd3675e706f03",
+    "hash": "0773e7b893b4b4d1ec63db0b6d4c25e2d1ba0739517096760b26a3ff2e682ab3"
+  },
+  {
+    "index": 218,
+    "timestamp": "2026-03-09T19:40:09.038830",
+    "data": {
+      "timestamp": "2026-03-09T19:40:09.038830",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "0773e7b893b4b4d1ec63db0b6d4c25e2d1ba0739517096760b26a3ff2e682ab3",
+    "hash": "a86ffe86f0c9ba907e34ed7057263e85e31d1eaf67a8a8a4e7f5b6e25c8f7e3f"
+  },
+  {
+    "index": 219,
+    "timestamp": "2026-03-09T19:40:54.449492",
+    "data": {
+      "timestamp": "2026-03-09T19:40:54.449492",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a86ffe86f0c9ba907e34ed7057263e85e31d1eaf67a8a8a4e7f5b6e25c8f7e3f",
+    "hash": "598968a571bd43740225b925b57c98766d9d1e6a5f4a7ffb55506cf1a3ba2ec2"
+  },
+  {
+    "index": 220,
+    "timestamp": "2026-03-09T19:41:21.523566",
+    "data": {
+      "timestamp": "2026-03-09T19:41:21.523566",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "598968a571bd43740225b925b57c98766d9d1e6a5f4a7ffb55506cf1a3ba2ec2",
+    "hash": "fc42ce6950b441a79a9a765722809b77008bb08cee2e768842ecaa1ecd66afa2"
+  },
+  {
+    "index": 221,
+    "timestamp": "2026-03-09T19:41:26.323171",
+    "data": {
+      "timestamp": "2026-03-09T19:41:26.323171",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "fc42ce6950b441a79a9a765722809b77008bb08cee2e768842ecaa1ecd66afa2",
+    "hash": "7e14ab8bd51a01acf7df89ff637d3c7a662f1579d49bacd222f6813c37a4d3e0"
+  },
+  {
+    "index": 222,
+    "timestamp": "2026-03-09T19:41:35.565806",
+    "data": {
+      "timestamp": "2026-03-09T19:41:35.565806",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "7e14ab8bd51a01acf7df89ff637d3c7a662f1579d49bacd222f6813c37a4d3e0",
+    "hash": "dc43a46141d8d23c6d5b58ddb9d87f1f1db5622af00329cd0af7f65b94f387d4"
+  },
+  {
+    "index": 223,
+    "timestamp": "2026-03-09T19:41:44.995874",
+    "data": {
+      "timestamp": "2026-03-09T19:41:44.995874",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "dc43a46141d8d23c6d5b58ddb9d87f1f1db5622af00329cd0af7f65b94f387d4",
+    "hash": "ff5b3cf8aafd27b90632c6259160749c2f5a1afac4386e4bce3fdcfbcf939146"
+  },
+  {
+    "index": 224,
+    "timestamp": "2026-03-09T19:41:57.592992",
+    "data": {
+      "timestamp": "2026-03-09T19:41:57.592992",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "ff5b3cf8aafd27b90632c6259160749c2f5a1afac4386e4bce3fdcfbcf939146",
+    "hash": "acb48f3bab56e52917a4decf676aa0a731475eeec2ed513f9d125c79d7779a4c"
+  },
+  {
+    "index": 225,
+    "timestamp": "2026-03-09T19:42:14.613768",
+    "data": {
+      "timestamp": "2026-03-09T19:42:14.613768",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "acb48f3bab56e52917a4decf676aa0a731475eeec2ed513f9d125c79d7779a4c",
+    "hash": "f0643b765fdf67229c576a80344ac6c68b8afb06566ffe7f20c3204b6414b1a2"
+  },
+  {
+    "index": 226,
+    "timestamp": "2026-03-09T19:42:28.019724",
+    "data": {
+      "timestamp": "2026-03-09T19:42:28.019724",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "f0643b765fdf67229c576a80344ac6c68b8afb06566ffe7f20c3204b6414b1a2",
+    "hash": "d2242f4052e7d75f1bb6a465bd02c1ebee0934033014b96f97375a538a792785"
+  },
+  {
+    "index": 227,
+    "timestamp": "2026-03-09T19:42:33.149244",
+    "data": {
+      "timestamp": "2026-03-09T19:42:33.149244",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Molecular DNA Archival",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d2242f4052e7d75f1bb6a465bd02c1ebee0934033014b96f97375a538a792785",
+    "hash": "c6c1278dcc1626bed8e742e92c2a7bb30c8beaced1aa55576fb3244bdf4e3396"
+  },
+  {
+    "index": 228,
+    "timestamp": "2026-03-09T19:42:45.565382",
+    "data": {
+      "timestamp": "2026-03-09T19:42:45.565382",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Real-Time Monitor",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "c6c1278dcc1626bed8e742e92c2a7bb30c8beaced1aa55576fb3244bdf4e3396",
+    "hash": "8877385eb4ad2070dd30beaedbdbd94f9fc239a30015adafd4f7cc0c2dc20afa"
+  },
+  {
+    "index": 229,
+    "timestamp": "2026-03-09T19:42:48.775324",
+    "data": {
+      "timestamp": "2026-03-09T19:42:48.775324",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Social Market Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "8877385eb4ad2070dd30beaedbdbd94f9fc239a30015adafd4f7cc0c2dc20afa",
+    "hash": "33fc03a7aba16168046b6f912cbf4e6908cce96866fb419b6f1a9947a7726214"
+  },
+  {
+    "index": 230,
+    "timestamp": "2026-03-09T19:42:53.188958",
+    "data": {
+      "timestamp": "2026-03-09T19:42:53.188958",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Connect Database",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "33fc03a7aba16168046b6f912cbf4e6908cce96866fb419b6f1a9947a7726214",
+    "hash": "e394d44317c032cfab64098a62102faff9c8658e0559dd422fb735e41d445254"
+  },
+  {
+    "index": 231,
+    "timestamp": "2026-03-09T19:42:56.029451",
+    "data": {
+      "timestamp": "2026-03-09T19:42:56.029451",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to File Utilities",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "e394d44317c032cfab64098a62102faff9c8658e0559dd422fb735e41d445254",
+    "hash": "46e62f2e44e6a12a7885309c51c8c8182b057af113ea1d217a7917229b980fc7"
+  },
+  {
+    "index": 232,
+    "timestamp": "2026-03-09T19:43:05.377697",
+    "data": {
+      "timestamp": "2026-03-09T19:43:05.377697",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Workflow Automation",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "46e62f2e44e6a12a7885309c51c8c8182b057af113ea1d217a7917229b980fc7",
+    "hash": "614c6534c11c92f10893e39b5154762a0601a166d8d43bb0c647c44d18672e8c"
+  },
+  {
+    "index": 233,
+    "timestamp": "2026-03-09T19:43:16.258942",
+    "data": {
+      "timestamp": "2026-03-09T19:43:16.258942",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Legacy Dashboard",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "614c6534c11c92f10893e39b5154762a0601a166d8d43bb0c647c44d18672e8c",
+    "hash": "babdef0b8afbe3a806513830b6fa3715a79c9170091517127c4ae8621159b7ef"
+  },
+  {
+    "index": 234,
+    "timestamp": "2026-03-09T19:43:24.939101",
+    "data": {
+      "timestamp": "2026-03-09T19:43:24.939101",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "babdef0b8afbe3a806513830b6fa3715a79c9170091517127c4ae8621159b7ef",
+    "hash": "c7646d9b1be7c07f7f2b16f985da168fb39c223b1067c316262c207ab10abeca"
+  },
+  {
+    "index": 235,
+    "timestamp": "2026-03-09T19:47:16.970146",
+    "data": {
+      "timestamp": "2026-03-09T19:47:16.970146",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "c7646d9b1be7c07f7f2b16f985da168fb39c223b1067c316262c207ab10abeca",
+    "hash": "2a305312204d6e22999f777634d197748c81aeb4b3be536c9852ac1e63b4593b"
+  },
+  {
+    "index": 236,
+    "timestamp": "2026-03-09T19:47:18.039517",
+    "data": {
+      "timestamp": "2026-03-09T19:47:18.039517",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2a305312204d6e22999f777634d197748c81aeb4b3be536c9852ac1e63b4593b",
+    "hash": "81a3590dfdd0076a4180b0c9db38d2e6f87f3f2a9fe90b1e183641da35affc38"
+  },
+  {
+    "index": 237,
+    "timestamp": "2026-03-09T19:47:28.665736",
+    "data": {
+      "timestamp": "2026-03-09T19:47:28.665736",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "81a3590dfdd0076a4180b0c9db38d2e6f87f3f2a9fe90b1e183641da35affc38",
+    "hash": "8e03943cc9953e5374e1d4b514a78dc9250113b90b5d2c129cbb0221a8b2d281"
+  },
+  {
+    "index": 238,
+    "timestamp": "2026-03-09T19:47:31.037261",
+    "data": {
+      "timestamp": "2026-03-09T19:47:31.037261",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "8e03943cc9953e5374e1d4b514a78dc9250113b90b5d2c129cbb0221a8b2d281",
+    "hash": "e952bceade9c040e62d2418b2e3a24437d4dd9521ddd9730785bd507fff6ce6d"
+  },
+  {
+    "index": 239,
+    "timestamp": "2026-03-09T19:47:32.315759",
+    "data": {
+      "timestamp": "2026-03-09T19:47:32.315759",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Quantum Orchestrator",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "e952bceade9c040e62d2418b2e3a24437d4dd9521ddd9730785bd507fff6ce6d",
+    "hash": "3d0a47fd7bd47fadc53309fd54d860ccec48b1b6b2f59433ce0dfe767cc8b2f2"
+  },
+  {
+    "index": 240,
+    "timestamp": "2026-03-09T19:47:34.277341",
+    "data": {
+      "timestamp": "2026-03-09T19:47:34.277341",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Venture Intelligence",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3d0a47fd7bd47fadc53309fd54d860ccec48b1b6b2f59433ce0dfe767cc8b2f2",
+    "hash": "d529cc7ace4fd522c05578d8b1bd5a4006c3b4a52839588c5d4100d359a3ce6b"
+  },
+  {
+    "index": 241,
+    "timestamp": "2026-03-09T19:47:35.949047",
+    "data": {
+      "timestamp": "2026-03-09T19:47:35.949047",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Data Lab & Mining",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "d529cc7ace4fd522c05578d8b1bd5a4006c3b4a52839588c5d4100d359a3ce6b",
+    "hash": "a104ca2fab736c61d6269de58916db9fb83a4801b1dc27b1835a41d87a6a15f1"
+  },
+  {
+    "index": 242,
+    "timestamp": "2026-03-09T19:47:37.238474",
+    "data": {
+      "timestamp": "2026-03-09T19:47:37.238474",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Security Audit Ledger",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "a104ca2fab736c61d6269de58916db9fb83a4801b1dc27b1835a41d87a6a15f1",
+    "hash": "46b3816cf6e35b335b7375e79576bf0e0db2d78b8fd716f56cff243cd8be2a29"
+  },
+  {
+    "index": 243,
+    "timestamp": "2026-03-09T19:47:38.249227",
+    "data": {
+      "timestamp": "2026-03-09T19:47:38.249227",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "46b3816cf6e35b335b7375e79576bf0e0db2d78b8fd716f56cff243cd8be2a29",
+    "hash": "0b0d403f91822704233239ee3526e3014e547465bb8e7b063fffe36831fe26cf"
+  },
+  {
+    "index": 244,
+    "timestamp": "2026-03-09T19:47:39.800150",
+    "data": {
+      "timestamp": "2026-03-09T19:47:39.800150",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Tech News",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "0b0d403f91822704233239ee3526e3014e547465bb8e7b063fffe36831fe26cf",
+    "hash": "2e9c53be28ba0946cfe24bab4e999fa5cd405b142d83ade08004b49655ae2d9a"
+  },
+  {
+    "index": 245,
+    "timestamp": "2026-03-09T19:47:42.210112",
+    "data": {
+      "timestamp": "2026-03-09T19:47:42.210112",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Visualization Studio",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "2e9c53be28ba0946cfe24bab4e999fa5cd405b142d83ade08004b49655ae2d9a",
+    "hash": "7ff27f2034c4b8b47f586e21807b7c8e9f2d66533401448305d6dd97559c97f4"
+  },
+  {
+    "index": 246,
+    "timestamp": "2026-03-09T19:47:59.252544",
+    "data": {
+      "timestamp": "2026-03-09T19:47:59.252544",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Extraction Engine",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "7ff27f2034c4b8b47f586e21807b7c8e9f2d66533401448305d6dd97559c97f4",
+    "hash": "d958fc7aa0074f5e4dfa1379f96ea75951497257c03e3e9064b5646e99c29b34"
+  },
+  {
+    "index": 247,
+    "timestamp": "2026-03-09T19:51:23.702639",
+    "data": {
+      "timestamp": "2026-03-09T19:51:23.702639",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "d958fc7aa0074f5e4dfa1379f96ea75951497257c03e3e9064b5646e99c29b34",
+    "hash": "937ed0084308c9b2b3aaf85d17a41050e68f904a88a37a957f850a38d277f117"
+  },
+  {
+    "index": 248,
+    "timestamp": "2026-03-09T19:51:24.565534",
+    "data": {
+      "timestamp": "2026-03-09T19:51:24.565534",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "937ed0084308c9b2b3aaf85d17a41050e68f904a88a37a957f850a38d277f117",
+    "hash": "1bee4d13b08186c30608abd5e74fdde6f74142177b55dc8e2fa7d6e6fbe250bb"
+  },
+  {
+    "index": 249,
+    "timestamp": "2026-03-09T19:51:37.722778",
+    "data": {
+      "timestamp": "2026-03-09T19:51:37.722778",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Executive Intelligence Hub",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "1bee4d13b08186c30608abd5e74fdde6f74142177b55dc8e2fa7d6e6fbe250bb",
+    "hash": "674c30c1add336a2fb2d4113ba3a322951b449b6472fa607270b20e86c827ec3"
+  },
+  {
+    "index": 250,
+    "timestamp": "2026-03-09T19:51:43.877527",
+    "data": {
+      "timestamp": "2026-03-09T19:51:43.877527",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Digital Twin Controller",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "674c30c1add336a2fb2d4113ba3a322951b449b6472fa607270b20e86c827ec3",
+    "hash": "515c780216d607b18c97798f3f00bbd949e9e1cf7112546f73b76aed46bb5c11"
+  },
+  {
+    "index": 251,
+    "timestamp": "2026-03-09T19:58:48.563496",
+    "data": {
+      "timestamp": "2026-03-09T19:58:48.563496",
+      "user": "System",
+      "action": "Initialization",
+      "details": "VDC KERNEL ACTIVE",
+      "category": "CORE",
+      "impact": "CRITICAL"
+    },
+    "prev_hash": "515c780216d607b18c97798f3f00bbd949e9e1cf7112546f73b76aed46bb5c11",
+    "hash": "3aa4673733574903429e3377df71989f7d0883643d21924a853280821fb50227"
+  },
+  {
+    "index": 252,
+    "timestamp": "2026-03-09T19:58:48.589316",
+    "data": {
+      "timestamp": "2026-03-09T19:58:48.589316",
+      "user": "User",
+      "action": "Nav",
+      "details": "Switched to Global Command Center",
+      "category": "UI",
+      "impact": "Low"
+    },
+    "prev_hash": "3aa4673733574903429e3377df71989f7d0883643d21924a853280821fb50227",
+    "hash": "c0169940e3aef863487592710d014d5f2780c086dfedbf779364e392f9b45264"
+  }
+]

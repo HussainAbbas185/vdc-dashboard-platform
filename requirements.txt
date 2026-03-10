@@ -20,3 +20,6 @@ reportlab
 psutil
 scikit-learn
 matplotlib
+plotly
+seaborn
+kaleido

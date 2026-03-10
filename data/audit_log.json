@@ -127,3 +127,423 @@
 {"timestamp": "2026-01-04T22:26:07.912374", "user": "Current User", "action": "Navigation", "details": "Switched to File Utilities", "category": "Operations", "impact": "Low"}
 {"timestamp": "2026-01-04T22:26:15.487104", "user": "Current User", "action": "Navigation", "details": "Switched to Legacy Dashboard", "category": "Operations", "impact": "Low"}
 {"timestamp": "2026-01-04T22:26:20.552099", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:47:52.001218", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T13:47:53.562426", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:55:34.401966", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T13:55:36.064788", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:56:08.620307", "user": "Current User", "action": "Navigation", "details": "Switched to Global Tech News", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:56:08.633335", "user": "Current User", "action": "Configuration", "details": "Updated NewsAPI Credentials", "category": "Configuration", "impact": "Medium"}
+{"timestamp": "2026-01-05T13:56:42.589769", "user": "Current User", "action": "Navigation", "details": "Switched to Data Lab & Mining", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:56:48.475617", "user": "Current User", "action": "Navigation", "details": "Switched to Real-Time Monitor", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:56:55.309955", "user": "Current User", "action": "Navigation", "details": "Switched to Connect Database", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:56:59.470933", "user": "Current User", "action": "Navigation", "details": "Switched to Extraction Engine", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:57:02.936167", "user": "Current User", "action": "Navigation", "details": "Switched to Executive Intelligence Hub", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:57:14.181013", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:57:33.517911", "user": "Current User", "action": "Navigation", "details": "Switched to File Utilities", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:57:36.117955", "user": "Current User", "action": "Navigation", "details": "Switched to Legacy Dashboard", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T13:57:40.071409", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:00:03.734673", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:00:05.088715", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:23:03.043549", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:23:04.229656", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:23:32.986861", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:23:33.509623", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:23:43.833019", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:23:59.707001", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:24:13.808852", "user": "Current User", "action": "Navigation", "details": "Switched to Legacy Dashboard", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:24:18.598705", "user": "Current User", "action": "Navigation", "details": "Switched to Executive Intelligence Hub", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:24:23.766068", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:24:29.932926", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:24:58.314435", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:27:00.089123", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:27:00.166389", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:27:04.953900", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:30:33.943793", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:30:33.965411", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:30:38.931037", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:30:47.921186", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:30:47.939364", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:30:52.216026", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:30:59.901012", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:31:13.059407", "user": "Current User", "action": "Navigation", "details": "Switched to File Utilities", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:31:15.969272", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:33:04.871997", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:33:04.889577", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:33:09.278607", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:35:26.889337", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:35:26.901107", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:35:31.062834", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:38:57.182675", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:38:57.195727", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:39:01.345121", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:39:31.016020", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:39:34.141368", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:39:55.671804", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:39:58.821068", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:40:18.614490", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:40:21.041123", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:45:49.745092", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:45:49.756618", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:45:57.556869", "user": "Current User", "action": "Navigation", "details": "Switched to Global Tech News", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:45:57.566090", "user": "Current User", "action": "Configuration", "details": "Updated NewsAPI Credentials", "category": "Configuration", "impact": "Medium"}
+{"timestamp": "2026-01-05T14:46:08.032342", "user": "Current User", "action": "Navigation", "details": "Switched to Data Lab & Mining", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:13.613211", "user": "Current User", "action": "Navigation", "details": "Switched to Real-Time Monitor", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:17.791128", "user": "Current User", "action": "Navigation", "details": "Switched to Connect Database", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:21.116715", "user": "Current User", "action": "Navigation", "details": "Switched to Executive Intelligence Hub", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:28.218798", "user": "Current User", "action": "Navigation", "details": "Switched to Extraction Engine", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:31.588538", "user": "Current User", "action": "Navigation", "details": "Switched to File Utilities", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:33.621450", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:52.358717", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:46:54.658796", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:50:22.842875", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T14:50:22.855309", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:50:27.970942", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:50:29.867485", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:50:54.292149", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:50:56.905298", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:50:58.085963", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T14:51:04.911961", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:11.864840", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:03:12.393442", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:17.082809", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:03:17.091597", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:22.095054", "user": "Current User", "action": "Navigation", "details": "Switched to Global Tech News", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:22.098811", "user": "Current User", "action": "Configuration", "details": "Updated NewsAPI Credentials", "category": "Configuration", "impact": "Medium"}
+{"timestamp": "2026-01-05T15:03:24.295204", "user": "Current User", "action": "Navigation", "details": "Switched to Data Lab & Mining", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:27.344838", "user": "Current User", "action": "Navigation", "details": "Switched to Real-Time Monitor", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:28.546631", "user": "Current User", "action": "Navigation", "details": "Switched to Connect Database", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:29.779787", "user": "Current User", "action": "Navigation", "details": "Switched to Extraction Engine", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:30.844801", "user": "Current User", "action": "Navigation", "details": "Switched to Executive Intelligence Hub", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:33.614450", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:41.282907", "user": "Current User", "action": "Navigation", "details": "Switched to Executive Intelligence Hub", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:46.218611", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:52.203612", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:03:55.938223", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:04:00.900560", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:05:32.943603", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:05:32.954865", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:05:35.932880", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:07:25.407674", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:07:26.256902", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:07:38.022067", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:07:38.414551", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:07:46.391011", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:16:51.234807", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:16:51.600739", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:16:59.059098", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:17:04.253113", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:18:36.218571", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:18:37.810108", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:19:12.786963", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:19:14.339776", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:19:27.931008", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:27:39.182764", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:27:39.636778", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:27:44.592411", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:35:27.700593", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:35:27.709415", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:35:32.564262", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:40:51.679799", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:40:51.701920", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:40:56.682993", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:41:02.971092", "user": "Current User", "action": "Navigation", "details": "Switched to Social Market Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:44:28.829845", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:44:28.841930", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:44:37.088539", "user": "Current User", "action": "Navigation", "details": "Switched to Social Market Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:51:19.798915", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:51:19.810354", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:52:17.009110", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:52:17.385439", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:52:34.832816", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:52:42.150944", "user": "Current User", "action": "Navigation", "details": "Switched to Executive Intelligence Hub", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:52:44.949753", "user": "Current User", "action": "Navigation", "details": "Switched to Social Market Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:52:51.221724", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:55:58.641383", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:55:58.654002", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:56:04.927603", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:57:47.218844", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T15:57:47.230785", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T15:57:50.980990", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:02:47.598888", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T16:02:47.609113", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:02:50.998840", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:28:28.861769", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T16:28:29.319828", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:28:38.675440", "user": "Current User", "action": "Navigation", "details": "Switched to Molecular DNA Archival", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:29:07.796406", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:29:13.682919", "user": "Current User", "action": "Navigation", "details": "Switched to Social Market Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:29:19.281353", "user": "Current User", "action": "Navigation", "details": "Switched to Global Tech News", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:29:19.286856", "user": "Current User", "action": "Configuration", "details": "Updated NewsAPI Credentials", "category": "Configuration", "impact": "Medium"}
+{"timestamp": "2026-01-05T16:50:47.195252", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T16:50:47.971016", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:50:53.402265", "user": "Current User", "action": "Navigation", "details": "Switched to Quantum Orchestrator", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:51:21.548016", "user": "Current User", "action": "Navigation", "details": "Switched to Molecular DNA Archival", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:52:41.254486", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T16:52:41.922204", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:56:56.630833", "user": "Current User", "action": "Navigation", "details": "Switched to Molecular DNA Archival", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T16:58:32.193930", "user": "Current User", "action": "Navigation", "details": "Switched to Quantum Orchestrator", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:22:24.768060", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T17:22:26.068702", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:22:31.861564", "user": "Current User", "action": "Navigation", "details": "Switched to Molecular DNA Archival", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:22:35.915419", "user": "Current User", "action": "Navigation", "details": "Switched to Quantum Orchestrator", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:37:50.036070", "user": "System", "action": "Initialization", "details": "VDC Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-05T17:37:52.081520", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:38:15.084869", "user": "Current User", "action": "Navigation", "details": "Switched to Molecular DNA Archival", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:38:24.173257", "user": "Current User", "action": "Navigation", "details": "Switched to Quantum Orchestrator", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:38:30.338172", "user": "Current User", "action": "Navigation", "details": "Switched to Molecular DNA Archival", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T17:38:34.058033", "user": "Current User", "action": "Navigation", "details": "Switched to Social Market Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-05T19:07:53.494300", "user": "Current User", "action": "Configuration", "details": "Updated NewsAPI Credentials", "category": "Configuration", "impact": "Medium"}
+{"timestamp": "2026-01-05T19:13:00.703756", "user": "Current User", "action": "Configuration", "details": "Updated NewsAPI Credentials", "category": "Configuration", "impact": "Medium"}
+{"timestamp": "2026-01-05T19:22:28.525916", "user": "Current User", "action": "Configuration", "details": "Updated NewsAPI Credentials", "category": "Configuration", "impact": "Medium"}
+{"timestamp": "2026-01-05T19:43:24.071978", "user": "Current User", "action": "Swarm Deployment", "details": "Deployed Sentiment Seeder into Crypto", "category": "Intelligence", "impact": "Medium"}
+{"timestamp": "2026-01-05T19:43:46.813302", "user": "Current User", "action": "Quantum Job", "details": "Executed Financial Portfolio (Depth: 128)", "category": "Quantum", "impact": "High"}
+{"timestamp": "2026-01-05T19:45:18.786730", "user": "Current User", "action": "Save Workflow", "details": "Created pipeline with 5 steps", "category": "Automation", "impact": "Medium"}
+{"timestamp": "2026-01-06T00:52:34.653514", "user": "System", "action": "Initialization", "details": "VDC Premium Terminal Online", "category": "Infrastructure", "impact": "High"}
+{"timestamp": "2026-01-06T00:52:35.507521", "user": "Current User", "action": "Navigation", "details": "Switched to Global Command Center", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:52:53.229889", "user": "Current User", "action": "Navigation", "details": "Switched to Executive Intelligence Hub", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:52:58.266738", "user": "Current User", "action": "Navigation", "details": "Switched to Digital Twin Controller", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:53:08.397105", "user": "Current User", "action": "Navigation", "details": "Switched to Quantum Orchestrator", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:53:27.425425", "user": "Current User", "action": "Navigation", "details": "Switched to Venture Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:53:39.229235", "user": "Current User", "action": "Navigation", "details": "Switched to Data Lab & Mining", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:53:58.583571", "user": "Current User", "action": "Navigation", "details": "Switched to Security Audit Ledger", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:15.155420", "user": "Current User", "action": "Navigation", "details": "Switched to Visualization Studio", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:20.190360", "user": "Current User", "action": "Navigation", "details": "Switched to Global Tech News", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:29.429990", "user": "Current User", "action": "Navigation", "details": "Switched to Extraction Engine", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:34.868364", "user": "Current User", "action": "Navigation", "details": "Switched to Molecular DNA Archival", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:44.562614", "user": "Current User", "action": "Navigation", "details": "Switched to Real-Time Monitor", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:47.653213", "user": "Current User", "action": "Navigation", "details": "Switched to Social Market Intelligence", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:53.088231", "user": "Current User", "action": "Navigation", "details": "Switched to Connect Database", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:54:58.006513", "user": "Current User", "action": "Navigation", "details": "Switched to File Utilities", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:55:00.875759", "user": "Current User", "action": "Navigation", "details": "Switched to Workflow Automation", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T00:55:04.325966", "user": "Current User", "action": "Navigation", "details": "Switched to Legacy Dashboard", "category": "Operations", "impact": "Low"}
+{"timestamp": "2026-01-06T01:01:09.548845", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-06T01:01:10.728046", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:01:19.046117", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:01:25.789627", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:01:36.104753", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:01:45.864788", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:01:49.911233", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:06:10.982894", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-06T01:06:12.264182", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:06:17.410287", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:06:23.853722", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:06:42.238169", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:06:54.659872", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:05.481577", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:10.883586", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:18.045302", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:26.009123", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:32.986988", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:36.663084", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:57.378655", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:07:59.866294", "user": "User", "action": "Nav", "details": "Switched to Social Market Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:03.266390", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:06.954628", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:12.138716", "user": "User", "action": "Nav", "details": "Switched to Workflow Automation", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:14.340345", "user": "User", "action": "Nav", "details": "Switched to Legacy Dashboard", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:19.616308", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:20.772291", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:23.710948", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:27.808605", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:08:29.779299", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:11:37.425923", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-06T01:11:38.522175", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:11:45.839655", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:11:54.459222", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:12:07.392585", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:12:37.389849", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:12:47.211816", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:12:53.943455", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:13:09.452894", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:13:13.016781", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:13:17.854571", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:13:20.204066", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:13:22.808864", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:13:31.137271", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:13:32.918678", "user": "User", "action": "Nav", "details": "Switched to Social Market Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:14:19.526835", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:16:27.083587", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-06T01:16:27.919256", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:16:40.250774", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:16:44.699598", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:16:56.998997", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:17:07.611158", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:17:11.459918", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:17:15.342409", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:17:29.019896", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:17:33.001898", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:17:34.584068", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:18:02.101162", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:20:12.910281", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:20:18.512303", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:21:04.440727", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:21:05.531304", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:23:32.632140", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-06T01:23:33.833212", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:24:25.621112", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-06T01:24:34.459396", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:14:55.948701", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-09T19:15:13.624884", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:15:20.676588", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:15:30.479312", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:15:38.929731", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:15:42.598729", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:15:51.843106", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:15:58.191256", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:16:03.078720", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:16:13.661757", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:16:19.036427", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:18:50.133860", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:18:52.399000", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:05.159789", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:13.934860", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:20.868559", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:23.019428", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:27.560868", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:30.373597", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:37.936653", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:43.193567", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:53.744828", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:55.632126", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:23:57.982481", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:14.960986", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:28.847869", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:30.579719", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:32.850638", "user": "User", "action": "Nav", "details": "Switched to Social Market Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:36.842605", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:39.522197", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:49.113783", "user": "User", "action": "Nav", "details": "Switched to Workflow Automation", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T19:24:52.633103", "user": "User", "action": "Nav", "details": "Switched to Legacy Dashboard", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:38:17.669547", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-09T23:38:23.309863", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:38:36.998717", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:38:43.131854", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:38:47.599901", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:38:56.626131", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:39:03.671744", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:10.769729", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:15.490651", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:18.449062", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:22.262005", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:28.180996", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:30.047365", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:32.422140", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:40:35.379870", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:54:53.440174", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-09T23:55:02.494134", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:55:07.082945", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:55:16.143852", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:55:40.688642", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:55:43.703713", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:55:50.526173", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:55:57.994346", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:06.961106", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:08.171863", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:15.638816", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:19.303412", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:23.916835", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:28.309240", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:31.340501", "user": "User", "action": "Nav", "details": "Switched to Social Market Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:36.058367", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:38.468040", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:41.589987", "user": "User", "action": "Nav", "details": "Switched to Workflow Automation", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:45.695864", "user": "User", "action": "Nav", "details": "Switched to Legacy Dashboard", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:53.466578", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:56:56.447649", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:57:01.748485", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:58:38.416591", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-09T23:58:39.509458", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:58:42.517736", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:58:49.117516", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:58:53.930713", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:00.516624", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:07.618072", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:21.090081", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:25.596210", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:41.816728", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:46.900302", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:52.517084", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-09T23:59:58.348283", "user": "User", "action": "Nav", "details": "Switched to Social Market Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:00:01.783422", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:00:05.894341", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:00:14.550635", "user": "User", "action": "Nav", "details": "Switched to Workflow Automation", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:00:19.097221", "user": "User", "action": "Nav", "details": "Switched to Legacy Dashboard", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:00:25.038846", "user": "User", "action": "Nav", "details": "Switched to Workflow Automation", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:00:26.929643", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:10.822434", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-01-10T00:03:11.772521", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:14.993953", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:19.482896", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:23.573792", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:30.178311", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:34.607534", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:39.799657", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:43.466229", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:50.326102", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:56.856285", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:03:59.661762", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:03.746939", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:06.198881", "user": "User", "action": "Nav", "details": "Switched to Social Market Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:09.728399", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:13.377993", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:24.259096", "user": "User", "action": "Nav", "details": "Switched to Workflow Automation", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:35.319785", "user": "User", "action": "Nav", "details": "Switched to Legacy Dashboard", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:41.697143", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:46.447208", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:49.339198", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:56.420595", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:04:59.412845", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:23.705502", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:25.597673", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:27.700435", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:29.788805", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:32.069504", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:34.630773", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:36.947179", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-01-10T00:05:41.150434", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T18:59:59.452640", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-03-09T19:00:14.742246", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:00:32.011575", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:00:43.963407", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:00:47.859021", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:01:02.290906", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:36:27.879542", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-03-09T19:36:34.646901", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:36:41.961382", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:36:47.815880", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:40:06.557212", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-03-09T19:40:09.038830", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:40:54.449492", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:41:21.523566", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:41:26.323171", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:41:35.565806", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:41:44.995874", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:41:57.592992", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:42:14.613768", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:42:28.019724", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:42:33.149244", "user": "User", "action": "Nav", "details": "Switched to Molecular DNA Archival", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:42:45.565382", "user": "User", "action": "Nav", "details": "Switched to Real-Time Monitor", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:42:48.775324", "user": "User", "action": "Nav", "details": "Switched to Social Market Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:42:53.188958", "user": "User", "action": "Nav", "details": "Switched to Connect Database", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:42:56.029451", "user": "User", "action": "Nav", "details": "Switched to File Utilities", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:43:05.377697", "user": "User", "action": "Nav", "details": "Switched to Workflow Automation", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:43:16.258942", "user": "User", "action": "Nav", "details": "Switched to Legacy Dashboard", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:43:24.939101", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:16.970146", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-03-09T19:47:18.039517", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:28.665736", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:31.037261", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:32.315759", "user": "User", "action": "Nav", "details": "Switched to Quantum Orchestrator", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:34.277341", "user": "User", "action": "Nav", "details": "Switched to Venture Intelligence", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:35.949047", "user": "User", "action": "Nav", "details": "Switched to Data Lab & Mining", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:37.238474", "user": "User", "action": "Nav", "details": "Switched to Security Audit Ledger", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:38.249227", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:39.800150", "user": "User", "action": "Nav", "details": "Switched to Global Tech News", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:42.210112", "user": "User", "action": "Nav", "details": "Switched to Visualization Studio", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:47:59.252544", "user": "User", "action": "Nav", "details": "Switched to Extraction Engine", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:51:23.702639", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-03-09T19:51:24.565534", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:51:37.722778", "user": "User", "action": "Nav", "details": "Switched to Executive Intelligence Hub", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:51:43.877527", "user": "User", "action": "Nav", "details": "Switched to Digital Twin Controller", "category": "UI", "impact": "Low"}
+{"timestamp": "2026-03-09T19:58:48.563496", "user": "System", "action": "Initialization", "details": "VDC KERNEL ACTIVE", "category": "CORE", "impact": "CRITICAL"}
+{"timestamp": "2026-03-09T19:58:48.589316", "user": "User", "action": "Nav", "details": "Switched to Global Command Center", "category": "UI", "impact": "Low"}
