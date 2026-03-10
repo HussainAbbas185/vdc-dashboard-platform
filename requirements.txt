@@ -14,8 +14,7 @@ python-docx
 requests
 yt-dlp
 Pillow
-pdf2docx
-docx2pdf
+
 reportlab
 psutil
 scikit-learn
