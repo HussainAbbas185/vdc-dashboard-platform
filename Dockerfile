@@ -1,14 +1,7 @@
-FROM python:3.11-slim
+# Use standard python image that implicitly contains build-essential tools instead of installing them via broken slim apt-cache
+FROM python:3.11-bullseye
 
 WORKDIR /app
-
-# Install system dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    curl \
-    software-properties-common \
-    git \
-    && rm -rf /var/lib/apt/lists/*
 
 # Copy the requirements file into the container
 COPY requirements.txt .
